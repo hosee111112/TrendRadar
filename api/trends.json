@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T18:23:55.721672+08:00",
-  "total_titles_processed": 1482,
+  "generated_at": "2025-10-13T19:19:22.130717+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "影视飓风 Tim 称父母观念是穷养儿，上大学才知道家里有钱，如何看待这种「抓娃娃」式的教育观念？",
@@ -262,6 +262,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 13时21分]"
+        },
+        {
+          "title": "女子花几千元买的婚鞋少了一颗钻",
+          "url": "https://www.toutiao.com/trending/7560529919873499145/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "女孩大口吃父母摊位剩食意外走红",
