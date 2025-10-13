@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T05:22:59.038008+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2025-10-14T06:19:42.856785+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "女子过安检丢了90克金手镯",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "重庆通报女子菜市场行凶致1死",
@@ -28,11 +28,12 @@
             23,
             25,
             19,
-            30
+            30,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[02时28分 ~ 06时19分]"
         },
         {
           "title": "女子过安检丢了90克金手镯",
@@ -42,11 +43,23 @@
             25,
             28,
             27,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[02时28分 ~ 06时19分]"
+        },
+        {
+          "title": "儿童近视 100 多度有希望恢复吗? 可以不戴眼镜吗?",
+          "url": "https://www.zhihu.com/question/639873843",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         }
       ]
     }
