@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T22:21:43.043476+08:00",
-  "total_titles_processed": 2057,
+  "generated_at": "2025-10-14T23:24:04.838587+08:00",
+  "total_titles_processed": 2152,
   "failed_sources": [],
   "trends": [
     {
@@ -59,11 +59,12 @@
           "ranks": [
             6,
             5,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时43分 ~ 22时21分]"
+          "appearance_count": 6,
+          "time_info": "[20时43分 ~ 23时24分]"
         },
         {
           "title": "肖战幼儿园时期的照片",
