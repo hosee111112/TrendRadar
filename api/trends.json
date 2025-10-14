@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T07:18:39.283069+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2025-10-14T09:24:47.300710+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "女子过安检丢了90克金手镯",
@@ -14,11 +14,12 @@
           "ranks": [
             16,
             8,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时24分]"
         },
         {
           "title": "重庆通报女子菜市场行凶致1死",
@@ -64,13 +65,24 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
+          "title": "女子踩指压板20分钟脚底喷血",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E5%AD%90%E8%B8%A9%E6%8C%87%E5%8E%8B%E6%9D%BF20%E5%88%86%E9%92%9F%E8%84%9A%E5%BA%95%E5%96%B7%E8%A1%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D22%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D22%26flag%3D0%26pos%3D23%26cate%3D5001%26lcate%3D5001%26q%3D%2523%25E5%25A5%25B3%25E5%25AD%2590%25E8%25B8%25A9%25E6%258C%2587%25E5%258E%258B%25E6%259D%25BF20%25E5%2588%2586%25E9%2592%259F%25E8%2584%259A%25E5%25BA%2595%25E5%2596%25B7%25E8%25A1%2580%2523%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1760404948%26pre_seqid%3D17604049483740373802636",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
           "title": "教育局回应老师要求学生砸毁手机",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E5%AD%A6%E7%94%9F%E7%A0%B8%E6%AF%81%E6%89%8B%E6%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E6%2595%2599%25E8%2582%25B2%25E5%25B1%2580%25E5%259B%259E%25E5%25BA%2594%25E8%2580%2581%25E5%25B8%2588%25E8%25A6%2581%25E6%25B1%2582%25E5%25AD%25A6%25E7%2594%259F%25E7%25A0%25B8%25E6%25AF%2581%25E6%2589%258B%25E6%259C%25BA%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D24%26lcate%3D5001%26cate%3D5001%26flag%3D0%26realpos%3D24%26pos%3D24%26display_time%3D1760396899%26pre_seqid%3D17603968991000372984191",
           "source": "微博",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         }
