@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T14:31:26.502421+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2025-10-14T15:20:41.543932+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "女子过安检丢了90克金手镯",
@@ -88,6 +88,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 11时03分]"
+        },
+        {
+          "title": "李亚鹏官宣离婚，孩子跟母亲生活，如何看待他们的婚姻？",
+          "url": "https://www.zhihu.com/question/1961434198322669108",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "教育局回应老师要求学生砸毁手机",
