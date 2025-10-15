@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T21:32:56.657290+08:00",
-  "total_titles_processed": 2009,
+  "generated_at": "2025-10-15T22:23:40.109642+08:00",
+  "total_titles_processed": 2102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "女子被拉住手臂回头发现竟是救命恩人",
@@ -119,6 +119,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 06时19分]"
+        },
+        {
+          "title": "老师拍学生「自愿」砸手机视频引关注，教育局称方式不当，学校应如何引导学生正确使用手机？",
+          "url": "https://www.zhihu.com/question/1961438408523096735",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "台湾乘客公交上打架 女子是被通缉小偷",
