@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T03:18:18.249325+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2025-10-16T04:22:56.916012+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             30,
             27,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 04时22分]"
         },
         {
           "title": "女子被拉住手臂回头发现竟是救命恩人",
           "url": "https://www.toutiao.com/trending/7561143880473853998/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时22分]"
         }
       ]
     }
