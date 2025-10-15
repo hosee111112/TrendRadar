@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T09:26:53.970492+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2025-10-15T11:07:13.734689+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,18 @@
           "time_info": "[00时25分 ~ 07时18分]"
         },
         {
+          "title": "女子大兴安岭自驾游偶遇猞猁和驼鹿，当地林业局称不建议互动，它们会攻击人吗？野外遇到该怎么办？",
+          "url": "https://www.zhihu.com/question/1960788363389920403",
+          "source": "知乎",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时07分]"
+        },
+        {
           "title": "何超琼：中国女性在全球是最幸运的",
           "url": "https://www.toutiao.com/trending/7560640040264728586/",
           "source": "今日头条",
@@ -34,24 +46,13 @@
           "time_info": "[06时18分 ~ 06时19分]"
         },
         {
-          "title": "女子大兴安岭自驾游偶遇猞猁和驼鹿，当地林业局称不建议互动，它们会攻击人吗？野外遇到该怎么办？",
-          "url": "https://www.zhihu.com/question/1960788363389920403",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
           "title": "台湾乘客公交上打架 女子是被通缉小偷",
           "url": "https://www.toutiao.com/trending/7561112509228286015/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
