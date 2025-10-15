@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T12:24:59.454243+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2025-10-15T13:20:26.307898+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "女子1千元找不到人为临终父亲理发",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 07时18分]"
+        },
+        {
+          "title": "盘点近期娱乐圈车库爱情",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E8%BF%91%E6%9C%9F%E5%A8%B1%E4%B9%90%E5%9C%88%E8%BD%A6%E5%BA%93%E7%88%B1%E6%83%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "女子大兴安岭自驾游偶遇猞猁和驼鹿，当地林业局称不建议互动，它们会攻击人吗？野外遇到该怎么办？",
