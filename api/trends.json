@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T05:19:32.608834+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2025-10-16T06:19:10.681273+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             30,
             27,
             28,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 06时19分]"
         },
         {
           "title": "女子被拉住手臂回头发现竟是救命恩人",
@@ -28,11 +29,12 @@
           "ranks": [
             23,
             28,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 06时19分]"
         }
       ]
     }
