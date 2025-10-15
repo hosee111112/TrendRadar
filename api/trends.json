@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T17:23:12.234164+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2025-10-15T18:22:28.715211+08:00",
+  "total_titles_processed": 1686,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 18时22分]"
         },
         {
           "title": "女子吸毒鼻沾K粉被海关当场抓获",
@@ -45,8 +45,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 17时23分]"
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 18时22分]"
         },
         {
           "title": "盘点近期娱乐圈车库爱情",
@@ -88,11 +88,12 @@
           "url": "https://www.toutiao.com/trending/7561302420869955626/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时22分]"
         },
         {
           "title": "何超琼：中国女性在全球是最幸运的",
