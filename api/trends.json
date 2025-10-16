@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T06:16:02.691613+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2025-10-17T07:18:44.521474+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "女子当众被性侵,众目睽睽无人救",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 07时18分]"
         },
         {
           "title": "苏州「我听交警的」事件迎来新进展，逆行且诬告的涉事女子被行拘，怎么评价小伙的教科书式操作？",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 07时18分]"
         },
         {
           "title": "27岁白俄女子被高薪模特招聘骗到缅北，家属被告知“已火化”",
@@ -53,11 +53,12 @@
             6,
             8,
             7,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 07时18分]"
         },
         {
           "title": "“我听交警的”事件涉事女子被行拘",
@@ -70,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 07时18分]"
         },
         {
           "title": "女子酒后走捷径坠亡 同饮者不担责",
@@ -83,11 +84,12 @@
             24,
             20,
             14,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 07时18分]"
         },
         {
           "title": "印度首富妻子爱马仕包镶3025颗钻",
@@ -100,8 +102,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时18分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时18分]"
         },
         {
           "title": "邓莎：我是丧偶式婚姻",
@@ -110,11 +112,12 @@
           "ranks": [
             30,
             21,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 06时16分]"
+          "appearance_count": 7,
+          "time_info": "[03时14分 ~ 07时18分]"
         },
         {
           "title": "白俄外交部回应女子被骗至缅北后身亡",
@@ -122,11 +125,12 @@
           "source": "微博",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时18分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[05时18分 ~ 07时18分]"
         },
         {
           "title": "女子在台北车站大厅遭侵犯无人制止",
@@ -146,11 +150,23 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2335%E5%B2%81%E5%A5%B3%E5%AD%90%E5%BA%94%E8%81%98%E4%BA%BA%E4%BA%8B%E5%B2%97%E8%A2%ABHR%E5%AB%8C%E5%B9%B4%E9%BE%84%E5%A4%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%252335%25E5%25B2%2581%25E5%25A5%25B3%25E5%25AD%2590%25E5%25BA%2594%25E8%2581%2598%25E4%25BA%25BA%25E4%25BA%258B%25E5%25B2%2597%25E8%25A2%25ABHR%25E5%25AB%258C%25E5%25B9%25B4%25E9%25BE%2584%25E5%25A4%25A7%2523%26lcate%3D5001%26band_rank%3D28%26flag%3D0%26cate%3D5001%26stream_entry_id%3D31%26pos%3D28%26dgr%3D0%26realpos%3D28%26display_time%3D1760652868%26pre_seqid%3D176065286809000674127",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 06时16分]"
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 07时18分]"
+        },
+        {
+          "title": "你认为在家庭关系中，父母的哪些行为会对孩子的性格成长产生重要影响？",
+          "url": "https://www.zhihu.com/question/1959552228961551777",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         }
       ]
     }
