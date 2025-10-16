@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T01:21:05.737491+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2025-10-17T02:31:16.251379+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -15,20 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时21分]"
-        },
-        {
-          "title": "女子为改善睡眠踩指压板 20 分钟脚底喷血，踩指压板真的有用吗？有哪些注意事项？",
-          "url": "https://www.zhihu.com/question/1961355416597393962",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 02时31分]"
         },
         {
           "title": "27岁白俄女子被高薪模特招聘骗到缅北，家属被告知“已火化”",
@@ -38,19 +26,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 02时31分]"
+        },
+        {
+          "title": "女子为改善睡眠踩指压板 20 分钟脚底喷血，踩指压板真的有用吗？有哪些注意事项？",
+          "url": "https://www.zhihu.com/question/1961355416597393962",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 02时31分]"
         },
         {
           "title": "苏州「我听交警的」事件迎来新进展，逆行且诬告的涉事女子被行拘，怎么评价小伙的教科书式操作？",
           "url": "https://www.zhihu.com/question/1962186287193755710",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 02时31分]"
         },
         {
           "title": "“我听交警的”事件涉事女子被行拘",
@@ -58,11 +60,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 02时31分]"
         },
         {
           "title": "女子酒后走捷径坠亡 同饮者不担责",
@@ -70,22 +73,24 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 02时31分]"
         },
         {
           "title": "印度首富妻子爱马仕包镶3025颗钻",
           "url": "https://www.toutiao.com/trending/7560751723166335015/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 02时31分]"
         }
       ]
     }
