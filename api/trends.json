@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-16T12:23:07.817039+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2025-10-16T13:21:34.817908+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "小车突然爆胎后排女子被甩出车窗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E8%BD%A6%E7%AA%81%E7%84%B6%E7%88%86%E8%83%8E%E5%90%8E%E6%8E%92%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%94%A9%E5%87%BA%E8%BD%A6%E7%AA%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26q%3D%2523%25E5%25B0%258F%25E8%25BD%25A6%25E7%25AA%2581%25E7%2584%25B6%25E7%2588%2586%25E8%2583%258E%25E5%2590%258E%25E6%258E%2592%25E5%25A5%25B3%25E5%25AD%2590%25E8%25A2%25AB%25E7%2594%25A9%25E5%2587%25BA%25E8%25BD%25A6%25E7%25AA%2597%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D2%26band_rank%3D2%26pos%3D1%26cate%3D5001%26display_time%3D1760583775%26pre_seqid%3D17605837751850066229",
+          "source": "微博",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 13时21分]"
+        },
         {
           "title": "邓莎说我是丧偶式婚姻",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%82%93%E8%8E%8E%E8%AF%B4%E6%88%91%E6%98%AF%E4%B8%A7%E5%81%B6%E5%BC%8F%E5%A9%9A%E5%A7%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D30%26q%3D%2523%25E9%2582%2593%25E8%258E%258E%25E8%25AF%25B4%25E6%2588%2591%25E6%2598%25AF%25E4%25B8%25A7%25E5%2581%25B6%25E5%25BC%258F%25E5%25A9%259A%25E5%25A7%25BB%2523%26dgr%3D0%26c_type%3D31%26band_rank%3D30%26cate%3D5001%26filter_type%3Drealtimehot%26flag%3D0%26pos%3D30%26stream_entry_id%3D31%26display_time%3D1760548662%26pre_seqid%3D17605486627770195895128",
@@ -23,18 +35,6 @@
           "time_info": "[01时19分 ~ 07时19分]"
         },
         {
-          "title": "小车突然爆胎后排女子被甩出车窗",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E8%BD%A6%E7%AA%81%E7%84%B6%E7%88%86%E8%83%8E%E5%90%8E%E6%8E%92%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%94%A9%E5%87%BA%E8%BD%A6%E7%AA%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26q%3D%2523%25E5%25B0%258F%25E8%25BD%25A6%25E7%25AA%2581%25E7%2584%25B6%25E7%2588%2586%25E8%2583%258E%25E5%2590%258E%25E6%258E%2592%25E5%25A5%25B3%25E5%25AD%2590%25E8%25A2%25AB%25E7%2594%25A9%25E5%2587%25BA%25E8%25BD%25A6%25E7%25AA%2597%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D2%26band_rank%3D2%26pos%3D1%26cate%3D5001%26display_time%3D1760583775%26pre_seqid%3D17605837751850066229",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 12时23分]"
-        },
-        {
           "title": "印度首富妻子的爱马仕镶了3025颗钻",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%B0%E5%BA%A6%E9%A6%96%E5%AF%8C%E5%A6%BB%E5%AD%90%E7%9A%84%E7%88%B1%E9%A9%AC%E4%BB%95%E9%95%B6%E4%BA%863025%E9%A2%97%E9%92%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26q%3D%2523%25E5%258D%25B0%25E5%25BA%25A6%25E9%25A6%2596%25E5%25AF%258C%25E5%25A6%25BB%25E5%25AD%2590%25E7%259A%2584%25E7%2588%25B1%25E9%25A9%25AC%25E4%25BB%2595%25E9%2595%25B6%25E4%25BA%25863025%25E9%25A2%2597%25E9%2592%25BB%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D4%26band_rank%3D4%26pos%3D4%26cate%3D5001%26display_time%3D1760583775%26pre_seqid%3D17605837751850066229",
           "source": "微博",
@@ -42,21 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 12时23分]"
-        },
-        {
-          "title": "新人结婚不收红包 摸一下后返还宾客",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E4%B8%8D%E6%94%B6%E7%BA%A2%E5%8C%85+%E6%91%B8%E4%B8%80%E4%B8%8B%E5%90%8E%E8%BF%94%E8%BF%98%E5%AE%BE%E5%AE%A2",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时24分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 13时21分]"
         },
         {
           "title": "女子在台北车站大厅遭侵犯无人制止",
@@ -65,11 +52,51 @@
           "ranks": [
             18,
             6,
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 13时21分]"
+        },
+        {
+          "title": "新人结婚不收红包 摸一下后返还宾客",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E4%B8%8D%E6%94%B6%E7%BA%A2%E5%8C%85+%E6%91%B8%E4%B8%80%E4%B8%8B%E5%90%8E%E8%BF%94%E8%BF%98%E5%AE%BE%E5%AE%A2",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            4,
+            8,
+            14
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时19分 ~ 12时23分]"
+          "time_info": "[09时24分 ~ 13时21分]"
+        },
+        {
+          "title": "俄媒曝乌士兵欲性侵女子被无人机吓退",
+          "url": "https://www.toutiao.com/trending/7561314436981227562/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时24分 ~ 13时21分]"
+        },
+        {
+          "title": "邓莎：我是丧偶式婚姻",
+          "url": "https://www.toutiao.com/trending/7561423130339753993/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时24分 ~ 13时21分]"
         },
         {
           "title": "女子被拉住手臂回头发现竟是救命恩人",
@@ -87,27 +114,15 @@
           "time_info": "[03时18分 ~ 07时19分]"
         },
         {
-          "title": "俄媒曝乌士兵欲性侵女子被无人机吓退",
-          "url": "https://www.toutiao.com/trending/7561314436981227562/",
-          "source": "今日头条",
+          "title": "“我听交警的”事件涉事女子被行拘",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E5%90%AC%E4%BA%A4%E8%AD%A6%E7%9A%84%E2%80%9D%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            14
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时24分 ~ 12时23分]"
-        },
-        {
-          "title": "邓莎：我是丧偶式婚姻",
-          "url": "https://www.toutiao.com/trending/7561423130339753993/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时24分 ~ 12时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "俄无人机救下一名正遭乌军性侵女子",
@@ -135,6 +150,52 @@
           "time_info": "[09时24分 ~ 11时04分]"
         },
         {
+          "title": "你认同在孩子教育上“放任自流”吗",
+          "url": "https://www.toutiao.com/trending/7561594373646057491/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时21分]"
+        },
+        {
+          "title": "女子在台北车站大厅遭性侵，长达10分钟无人制止",
+          "url": "https://news.ifeng.com/c/8nUhSM6OCJ5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时21分]"
+        },
+        {
+          "title": "长沙家长发文投诉，建议取消「家长护学岗」，教育局回应按照自愿原则，「自愿」会变成隐形强制吗？你怎么看？",
+          "url": "https://www.zhihu.com/question/1961877787154552696",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时21分]"
+        },
+        {
+          "title": "女生为亡夫守护公婆孩子近五年",
+          "url": "https://www.toutiao.com/trending/7560982004871856169/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时21分]"
+        },
+        {
           "title": "女子在台北车站大厅遭侵犯无人制止",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%8F%B0%E5%8C%97%E8%BD%A6%E7%AB%99%E5%A4%A7%E5%8E%85%E9%81%AD%E4%BE%B5%E7%8A%AF%E6%97%A0%E4%BA%BA%E5%88%B6%E6%AD%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D23%26c_type%3D31%26q%3D%2523%25E5%25A5%25B3%25E5%25AD%2590%25E5%259C%25A8%25E5%258F%25B0%25E5%258C%2597%25E8%25BD%25A6%25E7%25AB%2599%25E5%25A4%25A7%25E5%258E%2585%25E9%2581%25AD%25E4%25BE%25B5%25E7%258A%25AF%25E6%2597%25A0%25E4%25BA%25BA%25E5%2588%25B6%25E6%25AD%25A2%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26flag%3D0%26realpos%3D23%26lcate%3D5001%26pos%3D24%26filter_type%3Drealtimehot%26display_time%3D1760577835%26pre_seqid%3D17605778352640056172",
           "source": "微博",
@@ -145,50 +206,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时24分 ~ 11时04分]"
-        },
-        {
-          "title": "女子在台北车站大厅遭性侵，长达10分钟无人制止",
-          "url": "https://news.ifeng.com/c/8nUhSM6OCJ5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
-        },
-        {
-          "title": "你认同在孩子教育上“放任自流”吗",
-          "url": "https://www.toutiao.com/trending/7561594373646057491/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
-        },
-        {
-          "title": "长沙家长发文投诉，建议取消「家长护学岗」，教育局回应按照自愿原则，「自愿」会变成隐形强制吗？你怎么看？",
-          "url": "https://www.zhihu.com/question/1961877787154552696",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
-        },
-        {
-          "title": "女生为亡夫守护公婆孩子近五年",
-          "url": "https://www.toutiao.com/trending/7560982004871856169/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
         },
         {
           "title": "5岁女孩落水用幼儿园知识自救",
@@ -213,6 +230,17 @@
           "time_info": "[12时22分 ~ 12时23分]"
         },
         {
+          "title": "印度首富妻子爱马仕包镶3000颗钻",
+          "url": "https://www.toutiao.com/trending/7560751723166335015/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "创业板指涨超1%，沪指涨0.19%，深成指涨0.37%，保险、教育、创新药、存储芯片等方向领涨，沪深京三市上涨个股近1800只。",
           "url": "https://wallstreetcn.com/livenews/2988583",
           "source": "华尔街见闻-快讯",
@@ -222,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
+        },
+        {
+          "title": "郭富城携妻子方媛现身马场",
+          "url": "https://www.douyin.com/hot/2271389",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     }
