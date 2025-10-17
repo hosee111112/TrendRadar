@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-10-17T22:22:08.751495+08:00",
-  "total_titles_processed": 2057,
+  "generated_at": "2025-10-17T23:20:45.108292+08:00",
+  "total_titles_processed": 2142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "央媒披露一起拐卖儿童案：人贩子刑满释放后又卖了十余个孩子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796886",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时28分 ~ 23时20分]"
+        },
         {
           "title": "高速服务区现「野人小孩」，赤身裸体爬行奔跑，家人称教育方式不一样，怎样看待这种教育方式？",
           "url": "https://www.zhihu.com/question/1962179574336030563",
@@ -34,20 +49,6 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时25分 ~ 17时22分]"
-        },
-        {
-          "title": "央媒披露一起拐卖儿童案：人贩子刑满释放后又卖了十余个孩子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796886",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时28分 ~ 22时22分]"
         },
         {
           "title": "27岁白俄女子被高薪模特招聘骗到缅北，家属被告知“已火化”",
@@ -138,8 +139,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时21分 ~ 22时22分]"
+          "appearance_count": 12,
+          "time_info": "[15时21分 ~ 23时20分]"
         },
         {
           "title": "日本一地铁站内老头涉嫌偷拍女性裙底被抓，五名女性合力将其按倒在地",
@@ -438,6 +439,17 @@
           "time_info": "[19时16分 ~ 19时17分]"
         },
         {
+          "title": "女子酒驾撞劳斯莱斯：我是国企员工",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E9%A9%BE%E6%92%9E%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%EF%BC%9A%E6%88%91%E6%98%AF%E5%9B%BD%E4%BC%81%E5%91%98%E5%B7%A5",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "你认为在家庭关系中，父母的哪些行为会对孩子的性格成长产生重要影响？",
           "url": "https://www.zhihu.com/question/1959552228961551777",
           "source": "知乎",
@@ -458,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "辽宁一幼儿园被指15天虐童上千次",
+          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A2%AB%E6%8C%8715%E5%A4%A9%E8%99%90%E7%AB%A5%E4%B8%8A%E5%8D%83%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     }
