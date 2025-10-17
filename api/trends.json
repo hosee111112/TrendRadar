@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T01:21:12.485038+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2025-10-18T02:26:27.832396+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31796886",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时26分]"
         },
         {
           "title": "女子酒驾撞劳斯莱斯：我是国企员工",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时26分]"
         },
         {
           "title": "马上评｜把孩子养成“野人”，慎言只是教育方式不同",
@@ -38,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时26分]"
         },
         {
           "title": "把孩子教成野人是否涉嫌虐待儿童",
@@ -47,11 +48,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时26分]"
         },
         {
           "title": "日本女子强迫她人卖淫接客400人",
@@ -59,11 +61,12 @@
           "source": "微博",
           "ranks": [
             19,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时26分]"
         },
         {
           "title": "辽宁一幼儿园被指15天虐童上千次",
@@ -71,11 +74,12 @@
           "source": "微博",
           "ranks": [
             25,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时26分]"
         },
         {
           "title": "辽宁一幼儿园被指15天虐童上千次",
@@ -83,33 +87,36 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时26分]"
         },
         {
           "title": "丈夫中1000万变心但不想离婚",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%88%E5%A4%AB%E4%B8%AD1000%E4%B8%87%E5%8F%98%E5%BF%83%E4%BD%86%E4%B8%8D%E6%83%B3%E7%A6%BB%E5%A9%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26cate%3D5001%26q%3D%2523%25E4%25B8%2588%25E5%25A4%25AB%25E4%25B8%25AD1000%25E4%25B8%2587%25E5%258F%2598%25E5%25BF%2583%25E4%25BD%2586%25E4%25B8%258D%25E6%2583%25B3%25E7%25A6%25BB%25E5%25A9%259A%2523%26dgr%3D0%26realpos%3D17%26c_type%3D31%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D17%26lcate%3D5001%26pos%3D17%26display_time%3D1760721007%26pre_seqid%3D176072100743803586256114",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时26分]"
         },
         {
           "title": "丈夫中1000万变心离婚案将择期再审",
           "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E4%B8%AD1000%E4%B8%87%E5%8F%98%E5%BF%83%E7%A6%BB%E5%A9%9A%E6%A1%88%E5%B0%86%E6%8B%A9%E6%9C%9F%E5%86%8D%E5%AE%A1",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时26分]"
         }
       ]
     }
