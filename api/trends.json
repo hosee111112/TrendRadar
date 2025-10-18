@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T03:14:52.689786+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2025-10-19T04:20:08.064046+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             27,
             19,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时20分]"
         },
         {
           "title": "郑丽文成国民党第二位女性党主席",
@@ -32,8 +33,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时20分]"
         },
         {
           "title": "请求核查野人男孩父母收入来源",
@@ -41,11 +42,12 @@
           "source": "微博",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时20分]"
         },
         {
           "title": "三亚警方回应“女子酒驾自称国企员工求通报”：已采取强制措施，纪监委正核查",
@@ -55,8 +57,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时20分]"
         },
         {
           "title": "女子当众被性侵,众目睽睽无人救",
@@ -66,8 +68,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时20分]"
         },
         {
           "title": "被拐男孩母亲称没有养父母只有买家",
@@ -75,11 +77,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            24
+            24,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 04时20分]"
         }
       ]
     }
