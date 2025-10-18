@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T18:20:42.967022+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2025-10-18T19:16:26.627004+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "央媒披露一起拐卖儿童案：人贩子刑满释放后又卖了十余个孩子",
@@ -64,6 +64,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时28分 ~ 17时20分]"
+        },
+        {
+          "title": "清华大学发文悼念杨振宁，他对中国高等教育产生了哪些影响？物理学领域的学者眼中的杨振宁是什么样的？",
+          "url": "https://www.zhihu.com/question/1962860607301711253",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时28分 ~ 19时16分]"
         },
         {
           "title": "丈夫中1000万变心离婚案将择期再审",
@@ -129,17 +143,29 @@
           "time_info": "[00时31分 ~ 07时18分]"
         },
         {
-          "title": "清华大学发文悼念杨振宁，他对中国高等教育产生了哪些影响？物理学领域的学者眼中的杨振宁是什么样的？",
-          "url": "https://www.zhihu.com/question/1962860607301711253",
-          "source": "知乎",
+          "title": "三亚警方回应“女子酒驾自称国企员工求通报”：已采取强制措施，纪监委正核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31802011",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            7,
-            8
+            19,
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时28分 ~ 18时20分]"
+          "appearance_count": 8,
+          "time_info": "[14时28分 ~ 19时16分]"
+        },
+        {
+          "title": "老夫妇扎堆领结婚证 民政局回应",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AB%E5%A6%87%E6%89%8E%E5%A0%86%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81+%E6%B0%91%E6%94%BF%E5%B1%80%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时16分]"
         },
         {
           "title": "辽宁一幼儿园被指15天虐童上千次",
@@ -156,31 +182,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 09时22分]"
-        },
-        {
-          "title": "三亚警方回应“女子酒驾自称国企员工求通报”：已采取强制措施，纪监委正核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31802011",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时28分 ~ 18时20分]"
-        },
-        {
-          "title": "老夫妇扎堆领结婚证 民政局回应",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AB%E5%A6%87%E6%89%8E%E5%A0%86%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81+%E6%B0%91%E6%94%BF%E5%B1%80%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时20分]"
         },
         {
           "title": "邓莎老公路行辞职",
@@ -210,6 +211,20 @@
           "time_info": "[00时31分 ~ 06时18分]"
         },
         {
+          "title": "女子当众被性侵,众目睽睽无人救",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345885&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%BD%93%E4%BC%97%E8%A2%AB%E6%80%A7%E4%BE%B5%2C%E4%BC%97%E7%9B%AE%E7%9D%BD%E7%9D%BD%E6%97%A0%E4%BA%BA%E6%95%91",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 19时16分]"
+        },
+        {
           "title": "女子住酒店发现落地窗室内看不到外面",
           "url": "https://www.toutiao.com/trending/7562026389143076905/",
           "source": "今日头条",
@@ -221,19 +236,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时17分 ~ 07时18分]"
-        },
-        {
-          "title": "女子当众被性侵,众目睽睽无人救",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345885&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%BD%93%E4%BC%97%E8%A2%AB%E6%80%A7%E4%BE%B5%2C%E4%BC%97%E7%9B%AE%E7%9D%BD%E7%9D%BD%E6%97%A0%E4%BA%BA%E6%95%91",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 18时20分]"
         },
         {
           "title": "女子网购快递被标：挑剔顾客二次换货",
@@ -307,6 +309,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 13时19分]"
+        },
+        {
+          "title": "“丈夫中千万变心离婚案”妻子：曾给空卡欺骗我，摔烂我手机",
+          "url": "https://news.ifeng.com/c/8nY65Qp8t76",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "女子酒驾撞劳斯莱斯 扬言让政府通报",
