@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T19:16:26.627004+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2025-10-18T20:38:00.002790+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "央媒披露一起拐卖儿童案：人贩子刑满释放后又卖了十余个孩子",
@@ -38,6 +38,21 @@
           "time_info": "[00时31分 ~ 09时22分]"
         },
         {
+          "title": "清华大学发文悼念杨振宁，他对中国高等教育产生了哪些影响？物理学领域的学者眼中的杨振宁是什么样的？",
+          "url": "https://www.zhihu.com/question/1962860607301711253",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            8,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时28分 ~ 20时37分]"
+        },
+        {
           "title": "马上评｜把孩子养成“野人”，慎言只是教育方式不同",
           "url": "https://m.thepaper.cn/newsDetail_forward_31796875",
           "source": "澎湃新闻",
@@ -64,20 +79,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时28分 ~ 17时20分]"
-        },
-        {
-          "title": "清华大学发文悼念杨振宁，他对中国高等教育产生了哪些影响？物理学领域的学者眼中的杨振宁是什么样的？",
-          "url": "https://www.zhihu.com/question/1962860607301711253",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时28分 ~ 19时16分]"
         },
         {
           "title": "丈夫中1000万变心离婚案将择期再审",
@@ -113,6 +114,19 @@
           "time_info": "[01时20分 ~ 09时22分]"
         },
         {
+          "title": "三亚警方回应“女子酒驾自称国企员工求通报”：已采取强制措施，纪监委正核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31802011",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时28分 ~ 20时37分]"
+        },
+        {
           "title": "日本女子强迫她人卖淫接客400人",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%BC%BA%E8%BF%AB%E5%A5%B9%E4%BA%BA%E5%8D%96%E6%B7%AB%E6%8E%A5%E5%AE%A2400%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D18%26stream_entry_id%3D31%26flag%3D1%26realpos%3D19%26dgr%3D0%26band_rank%3D19%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E5%25A5%25B3%25E5%25AD%2590%25E5%25BC%25BA%25E8%25BF%25AB%25E5%25A5%25B9%25E4%25BA%25BA%25E5%258D%2596%25E6%25B7%25AB%25E6%258E%25A5%25E5%25AE%25A2400%25E4%25BA%25BA%2523%26display_time%3D1760717405%26pre_seqid%3D176071740596303613146106",
           "source": "微博",
@@ -143,29 +157,17 @@
           "time_info": "[00时31分 ~ 07时18分]"
         },
         {
-          "title": "三亚警方回应“女子酒驾自称国企员工求通报”：已采取强制措施，纪监委正核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31802011",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时28分 ~ 19时16分]"
-        },
-        {
           "title": "老夫妇扎堆领结婚证 民政局回应",
           "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%A4%AB%E5%A6%87%E6%89%8E%E5%A0%86%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81+%E6%B0%91%E6%94%BF%E5%B1%80%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时37分]"
         },
         {
           "title": "辽宁一幼儿园被指15天虐童上千次",
@@ -197,6 +199,32 @@
           "time_info": "[13时19分 ~ 16时25分]"
         },
         {
+          "title": "女子当众被性侵,众目睽睽无人救",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345885&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%BD%93%E4%BC%97%E8%A2%AB%E6%80%A7%E4%BE%B5%2C%E4%BC%97%E7%9B%AE%E7%9D%BD%E7%9D%BD%E6%97%A0%E4%BA%BA%E6%95%91",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28,
+            24,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 20时37分]"
+        },
+        {
+          "title": "女子称入住酒店遇离谱“走光”",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%85%A5%E4%BD%8F%E9%85%92%E5%BA%97%E9%81%87%E7%A6%BB%E8%B0%B1%E2%80%9C%E8%B5%B0%E5%85%89%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "把孩子教成野人是否涉嫌虐待儿童",
           "url": "https://www.toutiao.com/trending/7561737897838428199/",
           "source": "今日头条",
@@ -209,20 +237,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 06时18分]"
-        },
-        {
-          "title": "女子当众被性侵,众目睽睽无人救",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345885&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%BD%93%E4%BC%97%E8%A2%AB%E6%80%A7%E4%BE%B5%2C%E4%BC%97%E7%9B%AE%E7%9D%BD%E7%9D%BD%E6%97%A0%E4%BA%BA%E6%95%91",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            28,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 19时16分]"
         },
         {
           "title": "女子住酒店发现落地窗室内看不到外面",
@@ -261,6 +275,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时24分 ~ 17时20分]"
+        },
+        {
+          "title": "“丈夫中千万变心离婚案”妻子：曾给空卡欺骗我，摔烂我手机",
+          "url": "https://news.ifeng.com/c/8nY65Qp8t76",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时37分]"
         },
         {
           "title": "发68页PPT举报妻子出轨当事人发声",
@@ -311,15 +336,26 @@
           "time_info": "[12时24分 ~ 13时19分]"
         },
         {
-          "title": "“丈夫中千万变心离婚案”妻子：曾给空卡欺骗我，摔烂我手机",
-          "url": "https://news.ifeng.com/c/8nY65Qp8t76",
-          "source": "凤凰网",
+          "title": "被拐男孩母亲称没有养父母只有买家",
+          "url": "https://www.toutiao.com/trending/7562074419947143195/",
+          "source": "今日头条",
           "ranks": [
-            12
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时16分"
+          "time_info": "20时37分"
+        },
+        {
+          "title": "邓莎老公上再见爱人后辞职",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%82%93%E8%8E%8E%E8%80%81%E5%85%AC%E4%B8%8A%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E5%90%8E%E8%BE%9E%E8%81%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%2582%2593%25E8%258E%258E%25E8%2580%2581%25E5%2585%25AC%25E4%25B8%258A%25E5%2586%258D%25E8%25A7%2581%25E7%2588%25B1%25E4%25BA%25BA%25E5%2590%258E%25E8%25BE%259E%25E8%2581%258C%2523%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26pos%3D15%26dgr%3D0%26flag%3D0%26band_rank%3D14%26realpos%3D14%26lcate%3D5001%26display_time%3D1760790970%26pre_seqid%3D176079097015603553752107",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "女子酒驾撞劳斯莱斯 扬言让政府通报",
