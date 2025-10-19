@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T09:42:07.109573+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2025-10-19T11:19:36.137042+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "男子凌晨听到呼救发现一女子被勒昏",
@@ -59,22 +59,24 @@
           "ranks": [
             16,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 11时19分]"
         },
         {
           "title": "女子当众被性侵,众目睽睽无人救",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345885&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%BD%93%E4%BC%97%E8%A2%AB%E6%80%A7%E4%BE%B5%2C%E4%BC%97%E7%9B%AE%E7%9D%BD%E7%9D%BD%E6%97%A0%E4%BA%BA%E6%95%91",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 11时19分]"
         },
         {
           "title": "被拐男孩母亲称没有养父母只有买家",
@@ -101,8 +103,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 11时19分]"
         },
         {
           "title": "发68页PPT举报妻子出轨当事人发声",
@@ -118,22 +120,23 @@
           "time_info": "[05时17分 ~ 09时42分]"
         },
         {
+          "title": "怎样看待杨振宁称中国教育缺乏「渗透」学法？这种学法有哪些优势？",
+          "url": "https://www.zhihu.com/question/1962582282410882711",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 11时19分]"
+        },
+        {
           "title": "女儿结婚爸爸眼睛通红",
           "url": "https://www.toutiao.com/trending/7562394747600453668/",
           "source": "今日头条",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
-        },
-        {
-          "title": "怎样看待杨振宁称中国教育缺乏「渗透」学法？这种学法有哪些优势？",
-          "url": "https://www.zhihu.com/question/1962582282410882711",
-          "source": "知乎",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -150,6 +153,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时19分]"
+        },
+        {
+          "title": "婚礼前跳河新郎亲属：新郎父母已放弃追究新娘方责任",
+          "url": "https://news.ifeng.com/c/8nZfACUdaH8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "女子一袋银镯遗忘两年狂赚7万多元",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%B8%80%E8%A2%8B%E9%93%B6%E9%95%AF%E9%81%97%E5%BF%98%E4%B8%A4%E5%B9%B4%E7%8B%82%E8%B5%9A7%E4%B8%87%E5%A4%9A%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "邓莎老公上再见爱人后辞职",
