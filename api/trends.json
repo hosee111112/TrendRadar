@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T00:24:19.566929+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-20T01:18:18.010110+08:00",
+  "total_titles_processed": 339,
   "failed_sources": [],
   "trends": [
     {
@@ -15,52 +15,56 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
-        },
-        {
-          "title": "台湾丈夫携北京妻儿祭奠吴石将军",
-          "url": "https://www.toutiao.com/trending/7562419803332395027/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时18分]"
         },
         {
           "title": "女子7万买游乐场设施直呼太疯狂",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E5%AD%907%E4%B8%87%E4%B9%B0%E6%B8%B8%E4%B9%90%E5%9C%BA%E8%AE%BE%E6%96%BD%E7%9B%B4%E5%91%BC%E5%A4%AA%E7%96%AF%E7%8B%82%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26pos%3D10%26q%3D%2523%25E5%25A5%25B3%25E5%25AD%25907%25E4%25B8%2587%25E4%25B9%25B0%25E6%25B8%25B8%25E4%25B9%2590%25E5%259C%25BA%25E8%25AE%25BE%25E6%2596%25BD%25E7%259B%25B4%25E5%2591%25BC%25E5%25A4%25AA%25E7%2596%25AF%25E7%258B%2582%2523%26band_rank%3D10%26realpos%3D10%26flag%3D1%26display_time%3D1760889610%26pre_seqid%3D176088961058002729002101",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时18分]"
         },
         {
-          "title": "野人小孩家人称采用自然教育法",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E5%AE%B6%E4%BA%BA%E7%A7%B0%E9%87%87%E7%94%A8%E8%87%AA%E7%84%B6%E6%95%99%E8%82%B2%E6%B3%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26pos%3D12%26q%3D%2523%25E9%2587%258E%25E4%25BA%25BA%25E5%25B0%258F%25E5%25AD%25A9%25E5%25AE%25B6%25E4%25BA%25BA%25E7%25A7%25B0%25E9%2587%2587%25E7%2594%25A8%25E8%2587%25AA%25E7%2584%25B6%25E6%2595%2599%25E8%2582%25B2%25E6%25B3%2595%2523%26band_rank%3D12%26realpos%3D12%26flag%3D1%26display_time%3D1760889610%26pre_seqid%3D176088961058002729002101",
-          "source": "微博",
+          "title": "台湾丈夫携北京妻儿祭奠吴石将军",
+          "url": "https://www.toutiao.com/trending/7562419803332395027/",
+          "source": "今日头条",
           "ranks": [
-            12
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时18分]"
         },
         {
           "title": "丈夫隐瞒艾滋病10年夫妻生活无防护",
           "url": "https://www.toutiao.com/trending/7561715158147334187/",
           "source": "今日头条",
           "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时18分]"
+        },
+        {
+          "title": "新人结婚请柬在机场88块屏幕连播8天",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E8%AF%B7%E6%9F%AC%E5%9C%A8%E6%9C%BA%E5%9C%BA88%E5%9D%97%E5%B1%8F%E5%B9%95%E8%BF%9E%E6%92%AD8%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            14,
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时18分]"
         },
         {
           "title": "女子称入住亚朵酒店遇离谱「走光」，落地窗贴了单向膜室外能清晰观看室内，这种情况能要求酒店赔偿吗？",
@@ -70,19 +74,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时18分]"
         },
         {
-          "title": "新人结婚请柬在机场88块屏幕连播8天",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E8%AF%B7%E6%9F%AC%E5%9C%A8%E6%9C%BA%E5%9C%BA88%E5%9D%97%E5%B1%8F%E5%B9%95%E8%BF%9E%E6%92%AD8%E5%A4%A9",
+          "title": "台湾丈夫携北京妻儿祭奠吴石将军",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E4%B8%88%E5%A4%AB%E6%90%BA%E5%8C%97%E4%BA%AC%E5%A6%BB%E5%84%BF%E7%A5%AD%E5%A5%A0%E5%90%B4%E7%9F%B3%E5%B0%86%E5%86%9B",
           "source": "百度热搜",
           "ranks": [
-            14
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时18分]"
         },
         {
           "title": "丈夫隐瞒艾滋病10年夫妻生活无防护",
@@ -92,15 +97,26 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时18分]"
         },
         {
-          "title": "台湾丈夫携北京妻儿祭奠吴石将军",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E4%B8%88%E5%A4%AB%E6%90%BA%E5%8C%97%E4%BA%AC%E5%A6%BB%E5%84%BF%E7%A5%AD%E5%A5%A0%E5%90%B4%E7%9F%B3%E5%B0%86%E5%86%9B",
-          "source": "百度热搜",
+          "title": "女子当众被性侵,众目睽睽无人救",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345885&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%BD%93%E4%BC%97%E8%A2%AB%E6%80%A7%E4%BE%B5%2C%E4%BC%97%E7%9B%AE%E7%9D%BD%E7%9D%BD%E6%97%A0%E4%BA%BA%E6%95%91",
+          "source": "贴吧",
           "ranks": [
-            22
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时18分]"
+        },
+        {
+          "title": "野人小孩家人称采用自然教育法",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E5%AE%B6%E4%BA%BA%E7%A7%B0%E9%87%87%E7%94%A8%E8%87%AA%E7%84%B6%E6%95%99%E8%82%B2%E6%B3%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26pos%3D12%26q%3D%2523%25E9%2587%258E%25E4%25BA%25BA%25E5%25B0%258F%25E5%25AD%25A9%25E5%25AE%25B6%25E4%25BA%25BA%25E7%25A7%25B0%25E9%2587%2587%25E7%2594%25A8%25E8%2587%25AA%25E7%2584%25B6%25E6%2595%2599%25E8%2582%25B2%25E6%25B3%2595%2523%26band_rank%3D12%26realpos%3D12%26flag%3D1%26display_time%3D1760889610%26pre_seqid%3D176088961058002729002101",
+          "source": "微博",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -121,17 +137,6 @@
           "title": "女子将车停在修车店门口被扎破车胎",
           "url": "https://www.toutiao.com/trending/7562245937234739236/",
           "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
-        },
-        {
-          "title": "女子当众被性侵,众目睽睽无人救",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345885&amp;topic_name=%E5%A5%B3%E5%AD%90%E5%BD%93%E4%BC%97%E8%A2%AB%E6%80%A7%E4%BE%B5%2C%E4%BC%97%E7%9B%AE%E7%9D%BD%E7%9D%BD%E6%97%A0%E4%BA%BA%E6%95%91",
-          "source": "贴吧",
           "ranks": [
             29
           ],
