@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T16:24:53.950040+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2025-10-19T17:18:29.232995+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "女子称入住亚朵酒店遇离谱「走光」，落地窗贴了单向膜室外能清晰观看室内，这种情况能要求酒店赔偿吗？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 16时24分]"
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 17时18分]"
         },
         {
           "title": "男子凌晨听到呼救发现一女子被勒昏",
@@ -85,11 +85,25 @@
             23,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 16时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 17时18分]"
+        },
+        {
+          "title": "怎样看待杨振宁称中国教育缺乏「渗透」学法？这种学法有哪些优势？",
+          "url": "https://www.zhihu.com/question/1962582282410882711",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 17时18分]"
         },
         {
           "title": "被拐男孩母亲称没有养父母只有买家",
@@ -107,19 +121,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时26分 ~ 09时42分]"
-        },
-        {
-          "title": "怎样看待杨振宁称中国教育缺乏「渗透」学法？这种学法有哪些优势？",
-          "url": "https://www.zhihu.com/question/1962582282410882711",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 16时24分]"
         },
         {
           "title": "野人孩子父母正被调查是否违法",
@@ -140,8 +141,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 16时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 17时18分]"
         },
         {
           "title": "发68页PPT举报妻子出轨当事人发声",
@@ -162,11 +163,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 17时18分]"
         },
         {
           "title": "3岁女童在幼儿园遭虐待 4名幼师被拘",
@@ -183,6 +185,30 @@
           "time_info": "[12时25分 ~ 15时18分]"
         },
         {
+          "title": "丈夫隐瞒艾滋病10年夫妻生活无防护",
+          "url": "https://www.toutiao.com/trending/7561715158147334187/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 17时18分]"
+        },
+        {
+          "title": "被救女子投诉救人男子侵犯肖像权",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E6%8A%95%E8%AF%89%E6%95%91%E4%BA%BA%E7%94%B7%E5%AD%90%E4%BE%B5%E7%8A%AF%E8%82%96%E5%83%8F%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 17时18分]"
+        },
+        {
           "title": "女儿结婚爸爸眼睛通红",
           "url": "https://www.toutiao.com/trending/7562394747600453668/",
           "source": "今日头条",
@@ -192,17 +218,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时41分 ~ 09时42分]"
-        },
-        {
-          "title": "丈夫隐瞒艾滋病10年夫妻生活无防护",
-          "url": "https://www.toutiao.com/trending/7561715158147334187/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时24分]"
         },
         {
           "title": "野人孩子父母正被调查是否违法",
@@ -217,16 +232,27 @@
           "time_info": "[14时33分 ~ 15时18分]"
         },
         {
-          "title": "被救女子投诉救人男子侵犯肖像权",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E6%8A%95%E8%AF%89%E6%95%91%E4%BA%BA%E7%94%B7%E5%AD%90%E4%BE%B5%E7%8A%AF%E8%82%96%E5%83%8F%E6%9D%83",
-          "source": "百度热搜",
+          "title": "野人孩子父母正被调查是否违法",
+          "url": "https://www.douyin.com/hot/2275132",
+          "source": "抖音",
           "ranks": [
-            29,
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时24分]"
+          "time_info": "[16时24分 ~ 17时18分]"
+        },
+        {
+          "title": "“最快护士”张水华刷新个人马拉松最好成绩，获国内女子组第二",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31806772",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时18分]"
         },
         {
           "title": "可以说下你育儿理念是怎样的么？对于现在的教育你是怎样看待的？",
@@ -241,6 +267,29 @@
           "time_info": "[06时17分 ~ 07时19分]"
         },
         {
+          "title": "儿子喜欢看拳击和 ufc，我怕他看久了会有暴力倾向不让他看，我老公说我管太多，是我的错吗？",
+          "url": "https://www.zhihu.com/question/1962264395871679594",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时18分]"
+        },
+        {
+          "title": "媒体评被救女子投诉救人者侵权",
+          "url": "https://www.toutiao.com/trending/7562598622177673235/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时18分]"
+        },
+        {
           "title": "高速服务区现「野人小孩」，警方通报「孩子和父母已在管控范围内」，父母的行为可能涉嫌违反哪些规定？",
           "url": "https://www.zhihu.com/question/1963200872252138581",
           "source": "知乎",
@@ -252,37 +301,15 @@
           "time_info": "15时18分"
         },
         {
-          "title": "野人孩子父母正被调查是否违法",
-          "url": "https://www.douyin.com/hot/2275132",
-          "source": "抖音",
+          "title": "嫁到韩国的女子晒婆婆做的家常菜",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AB%81%E5%88%B0%E9%9F%A9%E5%9B%BD%E7%9A%84%E5%A5%B3%E5%AD%90%E6%99%92%E5%A9%86%E5%A9%86%E5%81%9A%E7%9A%84%E5%AE%B6%E5%B8%B8%E8%8F%9C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25AB%2581%25E5%2588%25B0%25E9%259F%25A9%25E5%259B%25BD%25E7%259A%2584%25E5%25A5%25B3%25E5%25AD%2590%25E6%2599%2592%25E5%25A9%2586%25E5%25A9%2586%25E5%2581%259A%25E7%259A%2584%25E5%25AE%25B6%25E5%25B8%25B8%25E8%258F%259C%2523%26dgr%3D0%26c_type%3D31%26realpos%3D21%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D21%26pos%3D20%26filter_type%3Drealtimehot%26cate%3D5001%26display_time%3D1760864410%26pre_seqid%3D176086441093302731881108",
+          "source": "微博",
           "ranks": [
-            14
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "“最快护士”张水华刷新个人马拉松最好成绩，获国内女子组第二",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31806772",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "儿子喜欢看拳击和 ufc，我怕他看久了会有暴力倾向不让他看，我老公说我管太多，是我的错吗？",
-          "url": "https://www.zhihu.com/question/1962264395871679594",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "17时18分"
         },
         {
           "title": "被拐男孩母亲称没有养父母只有买家",
@@ -324,9 +351,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "金价狂飙 “租三金”结婚成新选择",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E2%80%9C%E7%A7%9F%E4%B8%89%E9%87%91%E2%80%9D%E7%BB%93%E5%A9%9A%E6%88%90%E6%96%B0%E9%80%89%E6%8B%A9",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "多地交警接力开道 儿童两指奇迹再生",
@@ -340,15 +378,15 @@
           "time_info": "13时20分"
         },
         {
-          "title": "媒体评被救女子投诉救人者侵权",
-          "url": "https://www.toutiao.com/trending/7562598622177673235/",
-          "source": "今日头条",
+          "title": "野人孩子父母正被调查是否违法",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%8E%E4%BA%BA%E5%AD%A9%E5%AD%90%E7%88%B6%E6%AF%8D%E6%AD%A3%E8%A2%AB%E8%B0%83%E6%9F%A5%E6%98%AF%E5%90%A6%E8%BF%9D%E6%B3%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%2587%258E%25E4%25BA%25BA%25E5%25AD%25A9%25E5%25AD%2590%25E7%2588%25B6%25E6%25AF%258D%25E6%25AD%25A3%25E8%25A2%25AB%25E8%25B0%2583%25E6%259F%25A5%25E6%2598%25AF%25E5%2590%25A6%25E8%25BF%259D%25E6%25B3%2595%2523%26dgr%3D0%26c_type%3D31%26realpos%3D29%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D29%26pos%3D28%26filter_type%3Drealtimehot%26cate%3D5001%26display_time%3D1760864410%26pre_seqid%3D176086441093302731881108",
+          "source": "微博",
           "ranks": [
-            27
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "17时18分"
         }
       ]
     }
