@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T12:25:59.565933+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2025-10-19T13:20:56.821023+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "男子凌晨听到呼救发现一女子被勒昏",
@@ -73,11 +73,23 @@
           "ranks": [
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 12时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 13时20分]"
+        },
+        {
+          "title": "女子称入住亚朵酒店遇离谱「走光」，落地窗贴了单向膜室外能清晰观看室内，这种情况能要求酒店赔偿吗？",
+          "url": "https://www.zhihu.com/question/1962962788944143481",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 13时20分]"
         },
         {
           "title": "被拐男孩母亲称没有养父母只有买家",
@@ -97,26 +109,28 @@
           "time_info": "[02时26分 ~ 09时42分]"
         },
         {
-          "title": "女子称入住亚朵酒店遇离谱「走光」，落地窗贴了单向膜室外能清晰观看室内，这种情况能要求酒店赔偿吗？",
-          "url": "https://www.zhihu.com/question/1962962788944143481",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 12时25分]"
-        },
-        {
           "title": "野人孩子父母正被调查是否违法",
           "url": "https://www.toutiao.com/trending/7562138715943095871/",
           "source": "今日头条",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时20分]"
+        },
+        {
+          "title": "怎样看待杨振宁称中国教育缺乏「渗透」学法？这种学法有哪些优势？",
+          "url": "https://www.zhihu.com/question/1962582282410882711",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 13时20分]"
         },
         {
           "title": "发68页PPT举报妻子出轨当事人发声",
@@ -132,17 +146,15 @@
           "time_info": "[05时17分 ~ 09时42分]"
         },
         {
-          "title": "怎样看待杨振宁称中国教育缺乏「渗透」学法？这种学法有哪些优势？",
-          "url": "https://www.zhihu.com/question/1962582282410882711",
-          "source": "知乎",
+          "title": "婚礼前跳河新郎亲属：新郎父母已放弃追究新娘方责任",
+          "url": "https://news.ifeng.com/c/8nZfACUdaH8",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            7,
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 12时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时20分]"
         },
         {
           "title": "女儿结婚爸爸眼睛通红",
@@ -156,17 +168,6 @@
           "time_info": "[09时41分 ~ 09时42分]"
         },
         {
-          "title": "婚礼前跳河新郎亲属：新郎父母已放弃追究新娘方责任",
-          "url": "https://news.ifeng.com/c/8nZfACUdaH8",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时25分]"
-        },
-        {
           "title": "可以说下你育儿理念是怎样的么？对于现在的教育你是怎样看待的？",
           "url": "https://www.zhihu.com/question/5374178452",
           "source": "知乎",
@@ -177,6 +178,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时19分]"
+        },
+        {
+          "title": "3岁女童在幼儿园遭虐待 4名幼师被拘",
+          "url": "https://www.baidu.com/s?wd=3%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%81%AD%E8%99%90%E5%BE%85+4%E5%90%8D%E5%B9%BC%E5%B8%88%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时20分]"
+        },
+        {
+          "title": "被拐男孩母亲称没有养父母只有买家",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%A2%AB%E6%8B%90%E7%94%B7%E5%AD%A9%E6%AF%8D%E4%BA%B2%E7%A7%B0%E6%B2%A1%E6%9C%89%E5%85%BB%E7%88%B6%E6%AF%8D%E5%8F%AA%E6%9C%89%E4%B9%B0%E5%AE%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D23%26c_type%3D31%26flag%3D1%26realpos%3D22%26cate%3D5001%26q%3D%2523%25E8%25A2%25AB%25E6%258B%2590%25E7%2594%25B7%25E5%25AD%25A9%25E6%25AF%258D%25E4%25BA%25B2%25E7%25A7%25B0%25E6%25B2%25A1%25E6%259C%2589%25E5%2585%25BB%25E7%2588%25B6%25E6%25AF%258D%25E5%258F%25AA%25E6%259C%2589%25E4%25B9%25B0%25E5%25AE%25B6%2523%26stream_entry_id%3D31%26band_rank%3D22%26lcate%3D5001%26dgr%3D0%26display_time%3D1760850006%26pre_seqid%3D17608500064370355953436",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "女子一袋银镯遗忘两年狂赚7万多元",
@@ -201,15 +225,15 @@
           "time_info": "07时19分"
         },
         {
-          "title": "3岁女童在幼儿园遭虐待 4名幼师被拘",
-          "url": "https://www.baidu.com/s?wd=3%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%81%AD%E8%99%90%E5%BE%85+4%E5%90%8D%E5%B9%BC%E5%B8%88%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
+          "title": "多地交警接力开道 儿童两指奇迹再生",
+          "url": "https://www.toutiao.com/trending/7562428337264705563/",
+          "source": "今日头条",
           "ranks": [
-            28
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时25分"
+          "time_info": "13时20分"
         }
       ]
     }
