@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-19T13:20:56.821023+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2025-10-19T14:33:17.916588+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "女子称入住亚朵酒店遇离谱「走光」，落地窗贴了单向膜室外能清晰观看室内，这种情况能要求酒店赔偿吗？",
+          "url": "https://www.zhihu.com/question/1962962788944143481",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 14时33分]"
+        },
         {
           "title": "男子凌晨听到呼救发现一女子被勒昏",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%8C%E6%99%A8%E5%90%AC%E5%88%B0%E5%91%BC%E6%95%91%E5%8F%91%E7%8E%B0%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8B%92%E6%98%8F",
@@ -77,19 +88,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 13时20分]"
-        },
-        {
-          "title": "女子称入住亚朵酒店遇离谱「走光」，落地窗贴了单向膜室外能清晰观看室内，这种情况能要求酒店赔偿吗？",
-          "url": "https://www.zhihu.com/question/1962962788944143481",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 13时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 14时33分]"
         },
         {
           "title": "被拐男孩母亲称没有养父母只有买家",
@@ -116,8 +116,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 14时33分]"
         },
         {
           "title": "怎样看待杨振宁称中国教育缺乏「渗透」学法？这种学法有哪些优势？",
@@ -129,8 +129,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 14时33分]"
         },
         {
           "title": "发68页PPT举报妻子出轨当事人发声",
@@ -153,8 +153,21 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 14时33分]"
+        },
+        {
+          "title": "3岁女童在幼儿园遭虐待 4名幼师被拘",
+          "url": "https://www.baidu.com/s?wd=3%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%81%AD%E8%99%90%E5%BE%85+4%E5%90%8D%E5%B9%BC%E5%B8%88%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时20分]"
+          "time_info": "[12时25分 ~ 14时33分]"
         },
         {
           "title": "女儿结婚爸爸眼睛通红",
@@ -180,16 +193,15 @@
           "time_info": "[06时17分 ~ 07时19分]"
         },
         {
-          "title": "3岁女童在幼儿园遭虐待 4名幼师被拘",
-          "url": "https://www.baidu.com/s?wd=3%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%81%AD%E8%99%90%E5%BE%85+4%E5%90%8D%E5%B9%BC%E5%B8%88%E8%A2%AB%E6%8B%98",
+          "title": "野人孩子父母正被调查是否违法",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8E%E4%BA%BA%E5%AD%A9%E5%AD%90%E7%88%B6%E6%AF%8D%E6%AD%A3%E8%A2%AB%E8%B0%83%E6%9F%A5%E6%98%AF%E5%90%A6%E8%BF%9D%E6%B3%95",
           "source": "百度热搜",
           "ranks": [
-            28,
-            27
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "被拐男孩母亲称没有养父母只有买家",
@@ -198,7 +210,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -231,7 +243,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         }
