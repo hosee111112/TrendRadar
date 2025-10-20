@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-20T22:21:08.772865+08:00",
-  "total_titles_processed": 1809,
+  "generated_at": "2025-10-20T23:22:16.941714+08:00",
+  "total_titles_processed": 1900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "高知父母被管控,野孩将落户北京",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345972&amp;topic_name=%E9%AB%98%E7%9F%A5%E7%88%B6%E6%AF%8D%E8%A2%AB%E7%AE%A1%E6%8E%A7%2C%E9%87%8E%E5%AD%A9%E5%B0%86%E8%90%BD%E6%88%B7%E5%8C%97%E4%BA%AC",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时19分 ~ 23时22分]"
+        },
         {
           "title": "女儿五年级，今天下午有点冷，同学借给她一件衣服穿，说收两元，这件事怎么教育俩孩子，要不要告诉班主任?",
           "url": "https://www.zhihu.com/question/1962280864101701480",
@@ -48,17 +59,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时23分 ~ 07时19分]"
-        },
-        {
-          "title": "高知父母被管控,野孩将落户北京",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345972&amp;topic_name=%E9%AB%98%E7%9F%A5%E7%88%B6%E6%AF%8D%E8%A2%AB%E7%AE%A1%E6%8E%A7%2C%E9%87%8E%E5%AD%A9%E5%B0%86%E8%90%BD%E6%88%B7%E5%8C%97%E4%BA%AC",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时19分 ~ 22时21分]"
         },
         {
           "title": "新人结婚请柬在机场88块屏幕连播8天",
@@ -222,6 +222,70 @@
           "time_info": "[20时43分 ~ 21时31分]"
         },
         {
+          "title": "女子购摄像头看自家猫却看到别人家",
+          "url": "https://www.toutiao.com/trending/7562205691886207039/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            23,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时43分 ~ 23时22分]"
+        },
+        {
+          "title": "教育局回应老师上课玩手机麻将",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E7%8E%A9%E6%89%8B%E6%9C%BA%E9%BA%BB%E5%B0%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D22%26lcate%3D5001%26pos%3D23%26realpos%3D22%26filter_type%3Drealtimehot%26q%3D%2523%25E6%2595%2599%25E8%2582%25B2%25E5%25B1%2580%25E5%259B%259E%25E5%25BA%2594%25E8%2580%2581%25E5%25B8%2588%25E4%25B8%258A%25E8%25AF%25BE%25E7%258E%25A9%25E6%2589%258B%25E6%259C%25BA%25E9%25BA%25BB%25E5%25B0%2586%2523%26c_type%3D31%26cate%3D5001%26dgr%3D0%26flag%3D1%26display_time%3D1760967009%26pre_seqid%3D17609670097830315882975",
+          "source": "微博",
+          "ranks": [
+            22,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时31分 ~ 23时22分]"
+        },
+        {
+          "title": "女子回应半夜上厕所被蛇顶到屁股",
+          "url": "https://www.toutiao.com/trending/7563177703302774826/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时31分 ~ 23时22分]"
+        },
+        {
+          "title": "9岁男孩患儿童癌症之王",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%239%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E5%84%BF%E7%AB%A5%E7%99%8C%E7%97%87%E4%B9%8B%E7%8E%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D27%26lcate%3D5001%26pos%3D28%26realpos%3D27%26filter_type%3Drealtimehot%26q%3D%25239%25E5%25B2%2581%25E7%2594%25B7%25E5%25AD%25A9%25E6%2582%25A3%25E5%2584%25BF%25E7%25AB%25A5%25E7%2599%258C%25E7%2597%2587%25E4%25B9%258B%25E7%258E%258B%2523%26c_type%3D31%26cate%3D5001%26dgr%3D0%26flag%3D1%26display_time%3D1760967009%26pre_seqid%3D17609670097830315882975",
+          "source": "微博",
+          "ranks": [
+            27,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时31分 ~ 23时22分]"
+        },
+        {
+          "title": "男子回应翻妻子手机发现和8人暧昧",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E7%BF%BB%E5%A6%BB%E5%AD%90%E6%89%8B%E6%9C%BA%E5%8F%91%E7%8E%B0%E5%92%8C8%E4%BA%BA%E6%9A%A7%E6%98%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D24%26lcate%3D5001%26pos%3D25%26realpos%3D24%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2594%25B7%25E5%25AD%2590%25E5%259B%259E%25E5%25BA%2594%25E7%25BF%25BB%25E5%25A6%25BB%25E5%25AD%2590%25E6%2589%258B%25E6%259C%25BA%25E5%258F%2591%25E7%258E%25B0%25E5%2592%258C8%25E4%25BA%25BA%25E6%259A%25A7%25E6%2598%25A7%2523%26c_type%3D31%26cate%3D5001%26dgr%3D0%26flag%3D1%26display_time%3D1760967009%26pre_seqid%3D17609670097830315882975",
+          "source": "微博",
+          "ranks": [
+            24,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时31分 ~ 23时22分]"
+        },
+        {
           "title": "陈汉典lulu登记结婚",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%99%88%E6%B1%89%E5%85%B8lulu%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D18%26flag%3D1%26q%3D%2523%25E9%2599%2588%25E6%25B1%2589%25E5%2585%25B8lulu%25E7%2599%25BB%25E8%25AE%25B0%25E7%25BB%2593%25E5%25A9%259A%2523%26stream_entry_id%3D31%26cate%3D5001%26band_rank%3D17%26realpos%3D17%26dgr%3D0%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760955450%26pre_seqid%3D176095545024302297400102",
           "source": "微博",
@@ -232,19 +296,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时23分 ~ 19时20分]"
-        },
-        {
-          "title": "女子购摄像头看自家猫却看到别人家",
-          "url": "https://www.toutiao.com/trending/7562205691886207039/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时43分 ~ 22时21分]"
         },
         {
           "title": "女子抱狗取快递时狗狗突咬男孩肩膀",
@@ -259,18 +310,6 @@
           "time_info": "[20时43分 ~ 22时21分]"
         },
         {
-          "title": "教育局回应老师上课玩手机麻将",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E7%8E%A9%E6%89%8B%E6%9C%BA%E9%BA%BB%E5%B0%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D22%26lcate%3D5001%26pos%3D23%26realpos%3D22%26filter_type%3Drealtimehot%26q%3D%2523%25E6%2595%2599%25E8%2582%25B2%25E5%25B1%2580%25E5%259B%259E%25E5%25BA%2594%25E8%2580%2581%25E5%25B8%2588%25E4%25B8%258A%25E8%25AF%25BE%25E7%258E%25A9%25E6%2589%258B%25E6%259C%25BA%25E9%25BA%25BB%25E5%25B0%2586%2523%26c_type%3D31%26cate%3D5001%26dgr%3D0%26flag%3D1%26display_time%3D1760967009%26pre_seqid%3D17609670097830315882975",
-          "source": "微博",
-          "ranks": [
-            22,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时21分]"
-        },
-        {
           "title": "「野人小孩」父母称追求「自然养育」， 这种长期非社会化养育对孩子发展有哪些风险？是否是另一种养育忽视？",
           "url": "https://www.zhihu.com/question/1963560694034174583",
           "source": "知乎",
@@ -280,41 +319,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时19分 ~ 20时43分]"
-        },
-        {
-          "title": "女子回应半夜上厕所被蛇顶到屁股",
-          "url": "https://www.toutiao.com/trending/7563177703302774826/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时21分]"
-        },
-        {
-          "title": "男子回应翻妻子手机发现和8人暧昧",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E7%BF%BB%E5%A6%BB%E5%AD%90%E6%89%8B%E6%9C%BA%E5%8F%91%E7%8E%B0%E5%92%8C8%E4%BA%BA%E6%9A%A7%E6%98%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D24%26lcate%3D5001%26pos%3D25%26realpos%3D24%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2594%25B7%25E5%25AD%2590%25E5%259B%259E%25E5%25BA%2594%25E7%25BF%25BB%25E5%25A6%25BB%25E5%25AD%2590%25E6%2589%258B%25E6%259C%25BA%25E5%258F%2591%25E7%258E%25B0%25E5%2592%258C8%25E4%25BA%25BA%25E6%259A%25A7%25E6%2598%25A7%2523%26c_type%3D31%26cate%3D5001%26dgr%3D0%26flag%3D1%26display_time%3D1760967009%26pre_seqid%3D17609670097830315882975",
-          "source": "微博",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时21分]"
-        },
-        {
-          "title": "9岁男孩患儿童癌症之王",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%239%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E5%84%BF%E7%AB%A5%E7%99%8C%E7%97%87%E4%B9%8B%E7%8E%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D27%26lcate%3D5001%26pos%3D28%26realpos%3D27%26filter_type%3Drealtimehot%26q%3D%25239%25E5%25B2%2581%25E7%2594%25B7%25E5%25AD%25A9%25E6%2582%25A3%25E5%2584%25BF%25E7%25AB%25A5%25E7%2599%258C%25E7%2597%2587%25E4%25B9%258B%25E7%258E%258B%2523%26c_type%3D31%26cate%3D5001%26dgr%3D0%26flag%3D1%26display_time%3D1760967009%26pre_seqid%3D17609670097830315882975",
-          "source": "微博",
-          "ranks": [
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时21分]"
         },
         {
           "title": "美国女子AI生成号码中10万美元彩票",
@@ -338,6 +342,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时39分 ~ 11时17分]"
+        },
+        {
+          "title": "68页PPT曝光妻子出轨最新回应",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2368%E9%A1%B5PPT%E6%9B%9D%E5%85%89%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D11%26q%3D%252368%25E9%25A1%25B5PPT%25E6%259B%259D%25E5%2585%2589%25E5%25A6%25BB%25E5%25AD%2590%25E5%2587%25BA%25E8%25BD%25A8%25E6%259C%2580%25E6%2596%25B0%25E5%259B%259E%25E5%25BA%2594%2523%26cate%3D5001%26flag%3D1%26lcate%3D5001%26pos%3D12%26stream_entry_id%3D31%26realpos%3D11%26display_time%3D1760973623%26pre_seqid%3D17609736230700229062137",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
         },
         {
           "title": "男子 PPT 举报妻子出轨华南理工博士，该博士生已被解除公派留学，怎样看待这一处理结果？",
