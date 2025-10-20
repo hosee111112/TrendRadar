@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T07:19:33.095899+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2025-10-20T09:39:46.927302+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "和相识14年同学结婚啥体验",
@@ -46,11 +46,12 @@
             13,
             9,
             6,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时39分]"
         },
         {
           "title": "台湾丈夫携北京妻儿祭奠吴石将军",
@@ -95,8 +96,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时39分]"
         },
         {
           "title": "女子称入住亚朵酒店遇离谱「走光」，落地窗贴了单向膜室外能清晰观看室内，这种情况能要求酒店赔偿吗？",
@@ -129,8 +130,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时39分]"
         },
         {
           "title": "野人孩子和父母已在管控范围内",
@@ -157,6 +158,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时16分 ~ 07时19分]"
+        },
+        {
+          "title": "女儿五年级，今天下午有点冷，同学借给她一件衣服穿，说收两元，这件事怎么教育俩孩子，要不要告诉班主任?",
+          "url": "https://www.zhihu.com/question/1962280864101701480",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         },
         {
           "title": "野人小孩家人称采用自然教育法",
@@ -204,13 +216,35 @@
           "time_info": "[00时23分 ~ 00时24分]"
         },
         {
+          "title": "成都女子卡通煎饼摊走红：顾客排队5小时，买到后舍不得吃(图)",
+          "url": "https://news.ifeng.com/c/8naQSY3gYrk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "孙海洋妻子为叶锐聪加油",
+          "url": "https://www.toutiao.com/trending/7562420941293879335/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "男子救落水女子被要求下架视频",
           "url": "https://www.toutiao.com/trending/7562584808015708211/",
           "source": "今日头条",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
