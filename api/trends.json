@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T17:25:24.251408+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2025-10-20T18:24:07.750046+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "女儿五年级，今天下午有点冷，同学借给她一件衣服穿，说收两元，这件事怎么教育俩孩子，要不要告诉班主任?",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时39分 ~ 17时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时39分 ~ 18时24分]"
         },
         {
           "title": "和相识14年同学结婚啥体验",
@@ -172,6 +172,17 @@
           "time_info": "[03时16分 ~ 07时19分]"
         },
         {
+          "title": "女子帮母亲大扫除扔掉50万黄金首饰",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%AE%E6%AF%8D%E4%BA%B2%E5%A4%A7%E6%89%AB%E9%99%A4%E6%89%94%E6%8E%8950%E4%B8%87%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时24分]"
+        },
+        {
           "title": "美国女子AI生成号码中10万美元彩票",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90AI%E7%94%9F%E6%88%90%E5%8F%B7%E7%A0%81%E4%B8%AD10%E4%B8%87%E7%BE%8E%E5%85%83%E5%BD%A9%E7%A5%A8",
           "source": "百度热搜",
@@ -215,6 +226,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时23分 ~ 15时24分]"
+        },
+        {
+          "title": "陈汉典lulu登记结婚",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%99%88%E6%B1%89%E5%85%B8lulu%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D18%26flag%3D1%26q%3D%2523%25E9%2599%2588%25E6%25B1%2589%25E5%2585%25B8lulu%25E7%2599%25BB%25E8%25AE%25B0%25E7%25BB%2593%25E5%25A9%259A%2523%26stream_entry_id%3D31%26cate%3D5001%26band_rank%3D17%26realpos%3D17%26dgr%3D0%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760955450%26pre_seqid%3D176095545024302297400102",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "男子持铁锤打死妻子情夫被判无期徒刑",
@@ -273,15 +295,15 @@
           "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "女子帮母亲大扫除扔掉50万黄金首饰",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%AE%E6%AF%8D%E4%BA%B2%E5%A4%A7%E6%89%AB%E9%99%A4%E6%89%94%E6%8E%8950%E4%B8%87%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0",
+          "title": "陈汉典lulu登记结婚",
+          "url": "https://www.baidu.com/s?wd=%E9%99%88%E6%B1%89%E5%85%B8lulu%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A",
           "source": "百度热搜",
           "ranks": [
-            10
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "女子登山崴脚 小伙徒步3公里背下山",
@@ -312,7 +334,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
