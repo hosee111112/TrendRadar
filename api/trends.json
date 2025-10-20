@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T13:21:00.251451+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2025-10-20T14:32:30.921909+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,17 @@
           "time_info": "[00时23分 ~ 07时19分]"
         },
         {
+          "title": "女儿五年级，今天下午有点冷，同学借给她一件衣服穿，说收两元，这件事怎么教育俩孩子，要不要告诉班主任?",
+          "url": "https://www.zhihu.com/question/1962280864101701480",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 14时32分]"
+        },
+        {
           "title": "女子7万买游乐场设施直呼太疯狂",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E5%AD%907%E4%B8%87%E4%B9%B0%E6%B8%B8%E4%B9%90%E5%9C%BA%E8%AE%BE%E6%96%BD%E7%9B%B4%E5%91%BC%E5%A4%AA%E7%96%AF%E7%8B%82%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26pos%3D10%26q%3D%2523%25E5%25A5%25B3%25E5%25AD%25907%25E4%25B8%2587%25E4%25B9%25B0%25E6%25B8%25B8%25E4%25B9%2590%25E5%259C%25BA%25E8%25AE%25BE%25E6%2596%25BD%25E7%259B%25B4%25E5%2591%25BC%25E5%25A4%25AA%25E7%2596%25AF%25E7%258B%2582%2523%26band_rank%3D10%26realpos%3D10%26flag%3D1%26display_time%3D1760889610%26pre_seqid%3D176088961058002729002101",
           "source": "微博",
@@ -36,17 +47,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时23分 ~ 07时19分]"
-        },
-        {
-          "title": "女儿五年级，今天下午有点冷，同学借给她一件衣服穿，说收两元，这件事怎么教育俩孩子，要不要告诉班主任?",
-          "url": "https://www.zhihu.com/question/1962280864101701480",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时39分 ~ 13时21分]"
         },
         {
           "title": "新人结婚请柬在机场88块屏幕连播8天",
