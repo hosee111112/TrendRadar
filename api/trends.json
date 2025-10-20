@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T15:24:10.956238+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2025-10-20T16:27:59.322519+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "女儿五年级，今天下午有点冷，同学借给她一件衣服穿，说收两元，这件事怎么教育俩孩子，要不要告诉班主任?",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时39分 ~ 15时24分]"
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 16时27分]"
         },
         {
           "title": "和相识14年同学结婚啥体验",
@@ -172,6 +172,18 @@
           "time_info": "[03时16分 ~ 07时19分]"
         },
         {
+          "title": "美国女子AI生成号码中10万美元彩票",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90AI%E7%94%9F%E6%88%90%E5%8F%B7%E7%A0%81%E4%B8%AD10%E4%B8%87%E7%BE%8E%E5%85%83%E5%BD%A9%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 16时27分]"
+        },
+        {
           "title": "成都女子卡通煎饼摊走红：顾客排队5小时，买到后舍不得吃(图)",
           "url": "https://news.ifeng.com/c/8naQSY3gYrk",
           "source": "凤凰网",
@@ -228,17 +240,6 @@
           "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "美国女子AI生成号码中10万美元彩票",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90AI%E7%94%9F%E6%88%90%E5%8F%B7%E7%A0%81%E4%B8%AD10%E4%B8%87%E7%BE%8E%E5%85%83%E5%BD%A9%E7%A5%A8",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时24分]"
-        },
-        {
           "title": "X剧场首部女性罪案剧",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DX%E5%89%A7%E5%9C%BA%E9%A6%96%E9%83%A8%E5%A5%B3%E6%80%A7%E7%BD%AA%E6%A1%88%E5%89%A7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26lcate%3D5001%26flag%3D1%26cate%3D5001%26realpos%3D28%26q%3DX%25E5%2589%25A7%25E5%259C%25BA%25E9%25A6%2596%25E9%2583%25A8%25E5%25A5%25B3%25E6%2580%25A7%25E7%25BD%25AA%25E6%25A1%2588%25E5%2589%25A7%26stream_entry_id%3D31%26pos%3D28%26band_rank%3D28%26filter_type%3Drealtimehot%26dgr%3D0%26display_time%3D1760934365%26pre_seqid%3D17609343651480273335334",
           "source": "微博",
@@ -270,6 +271,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 00时24分]"
+        },
+        {
+          "title": "女子登山崴脚 小伙徒步3公里背下山",
+          "url": "https://www.toutiao.com/trending/7562791289536839723/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "孙海洋妻子为叶锐聪加油",
