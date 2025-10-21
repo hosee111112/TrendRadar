@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T13:20:09.249543+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2025-10-21T14:31:08.968902+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "高知父母被管控,野孩将落户北京",
@@ -89,11 +89,13 @@
           "source": "今日头条",
           "ranks": [
             8,
-            5
+            5,
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 14时31分]"
         },
         {
           "title": "女子散播台风停工停课谣言被拘",
@@ -103,8 +105,44 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时08分 ~ 14时31分]"
+        },
+        {
+          "title": "柯佳嬿老公涉嫌逃兵役",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9F%AF%E4%BD%B3%E5%AC%BF%E8%80%81%E5%85%AC%E6%B6%89%E5%AB%8C%E9%80%83%E5%85%B5%E5%BD%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E6%259F%25AF%25E4%25BD%25B3%25E5%25AC%25BF%25E8%2580%2581%25E5%2585%25AC%25E6%25B6%2589%25E5%25AB%258C%25E9%2580%2583%25E5%2585%25B5%25E5%25BD%25B9%2523%26dgr%3D0%26band_rank%3D12%26pos%3D13%26realpos%3D12%26c_type%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761023867%26pre_seqid%3D176102386711103123571128",
+          "source": "微博",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时08分 ~ 13时20分]"
+          "time_info": "[13时19分 ~ 14时31分]"
+        },
+        {
+          "title": "女子67万奔驰被撞毁保险仅赔24万",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9067%E4%B8%87%E5%A5%94%E9%A9%B0%E8%A2%AB%E6%92%9E%E6%AF%81%E4%BF%9D%E9%99%A9%E4%BB%85%E8%B5%9424%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 14时31分]"
+        },
+        {
+          "title": "结婚了但是不熟",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%BB%93%E5%A9%9A%E4%BA%86%E4%BD%86%E6%98%AF%E4%B8%8D%E7%86%9F&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26q%3D%25E7%25BB%2593%25E5%25A9%259A%25E4%25BA%2586%25E4%25BD%2586%25E6%2598%25AF%25E4%25B8%258D%25E7%2586%259F%26dgr%3D0%26band_rank%3D21%26pos%3D22%26realpos%3D21%26c_type%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761023867%26pre_seqid%3D176102386711103123571128",
+          "source": "微博",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 14时31分]"
         },
         {
           "title": "新娘回应结婚请柬霸屏机场",
@@ -156,17 +194,6 @@
           "time_info": "[04时24分 ~ 05时19分]"
         },
         {
-          "title": "柯佳嬿老公涉嫌逃兵役",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9F%AF%E4%BD%B3%E5%AC%BF%E8%80%81%E5%85%AC%E6%B6%89%E5%AB%8C%E9%80%83%E5%85%B5%E5%BD%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E6%259F%25AF%25E4%25BD%25B3%25E5%25AC%25BF%25E8%2580%2581%25E5%2585%25AC%25E6%25B6%2589%25E5%25AB%258C%25E9%2580%2583%25E5%2585%25B5%25E5%25BD%25B9%2523%26dgr%3D0%26band_rank%3D12%26pos%3D13%26realpos%3D12%26c_type%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761023867%26pre_seqid%3D176102386711103123571128",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
           "title": "阿根廷财政部：已启动主权债务回购操作，以降低融资成本并支持教育投资。",
           "url": "https://flash.jin10.com/detail/20251021032439697800",
           "source": "金十数据",
@@ -191,15 +218,15 @@
           "time_info": "[06时20分 ~ 07时18分]"
         },
         {
-          "title": "结婚了但是不熟",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%BB%93%E5%A9%9A%E4%BA%86%E4%BD%86%E6%98%AF%E4%B8%8D%E7%86%9F&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26q%3D%25E7%25BB%2593%25E5%25A9%259A%25E4%25BA%2586%25E4%25BD%2586%25E6%2598%25AF%25E4%25B8%258D%25E7%2586%259F%26dgr%3D0%26band_rank%3D21%26pos%3D22%26realpos%3D21%26c_type%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761023867%26pre_seqid%3D176102386711103123571128",
-          "source": "微博",
+          "title": "贾静雯回应丈夫被警方拘提",
+          "url": "https://www.toutiao.com/trending/7562589563689795620/",
+          "source": "今日头条",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "68页PPT举报妻子出轨男子正协议离婚",
@@ -212,17 +239,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时08分 ~ 12时24分]"
-        },
-        {
-          "title": "女子67万奔驰被撞毁保险仅赔24万",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9067%E4%B8%87%E5%A5%94%E9%A9%B0%E8%A2%AB%E6%92%9E%E6%AF%81%E4%BF%9D%E9%99%A9%E4%BB%85%E8%B5%9424%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
         },
         {
           "title": "68页PPT曝妻子出轨男子正协议离婚",
