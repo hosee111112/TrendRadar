@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T14:31:08.968902+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2025-10-21T15:20:58.910497+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "高知父母被管控,野孩将落户北京",
@@ -69,6 +69,17 @@
           "time_info": "[00时25分 ~ 07时18分]"
         },
         {
+          "title": "女子散播台风停工停课谣言被拘",
+          "url": "https://www.douyin.com/hot/2277116",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时08分 ~ 15时20分]"
+        },
+        {
           "title": "9岁男孩患儿童癌症之王",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%239%E5%B2%81%E7%94%B7%E5%AD%A9%E6%82%A3%E5%84%BF%E7%AB%A5%E7%99%8C%E7%97%87%E4%B9%8B%E7%8E%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26band_rank%3D26%26cate%3D5001%26q%3D%25239%25E5%25B2%2581%25E7%2594%25B7%25E5%25AD%25A9%25E6%2582%25A3%25E5%2584%25BF%25E7%25AB%25A5%25E7%2599%258C%25E7%2597%2587%25E4%25B9%258B%25E7%258E%258B%2523%26realpos%3D26%26stream_entry_id%3D31%26pos%3D26%26dgr%3D0%26display_time%3D1760977308%26pre_seqid%3D17609773087240230111573",
           "source": "微博",
@@ -98,27 +109,17 @@
           "time_info": "[12时24分 ~ 14时31分]"
         },
         {
-          "title": "女子散播台风停工停课谣言被拘",
-          "url": "https://www.douyin.com/hot/2277116",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时08分 ~ 14时31分]"
-        },
-        {
           "title": "柯佳嬿老公涉嫌逃兵役",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9F%AF%E4%BD%B3%E5%AC%BF%E8%80%81%E5%85%AC%E6%B6%89%E5%AB%8C%E9%80%83%E5%85%B5%E5%BD%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E6%259F%25AF%25E4%25BD%25B3%25E5%25AC%25BF%25E8%2580%2581%25E5%2585%25AC%25E6%25B6%2589%25E5%25AB%258C%25E9%2580%2583%25E5%2585%25B5%25E5%25BD%25B9%2523%26dgr%3D0%26band_rank%3D12%26pos%3D13%26realpos%3D12%26c_type%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761023867%26pre_seqid%3D176102386711103123571128",
           "source": "微博",
           "ranks": [
             12,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 15时20分]"
         },
         {
           "title": "女子67万奔驰被撞毁保险仅赔24万",
@@ -126,11 +127,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 15时20分]"
         },
         {
           "title": "结婚了但是不熟",
@@ -168,6 +170,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时28分 ~ 12时24分]"
+        },
+        {
+          "title": "贾静雯回应丈夫被警方拘提",
+          "url": "https://www.toutiao.com/trending/7562589563689795620/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 15时20分]"
         },
         {
           "title": "女子早起喝隔夜水发现疑似虫卵物",
@@ -218,17 +231,6 @@
           "time_info": "[06时20分 ~ 07时18分]"
         },
         {
-          "title": "贾静雯回应丈夫被警方拘提",
-          "url": "https://www.toutiao.com/trending/7562589563689795620/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
-        },
-        {
           "title": "68页PPT举报妻子出轨男子正协议离婚",
           "url": "https://www.baidu.com/s?wd=68%E9%A1%B5PPT%E4%B8%BE%E6%8A%A5%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E7%94%B7%E5%AD%90%E6%AD%A3%E5%8D%8F%E8%AE%AE%E7%A6%BB%E5%A9%9A",
           "source": "百度热搜",
@@ -272,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "金价大涨影响年轻人结婚",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E5%BD%B1%E5%93%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%93%E5%A9%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26dgr%3D0%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E6%25B6%25A8%25E5%25BD%25B1%25E5%2593%258D%25E5%25B9%25B4%25E8%25BD%25BB%25E4%25BA%25BA%25E7%25BB%2593%25E5%25A9%259A%2523%26band_rank%3D23%26stream_entry_id%3D31%26pos%3D24%26cate%3D5001%26realpos%3D23%26lcate%3D5001%26display_time%3D1761031127%26pre_seqid%3D17610311272150313454545",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "女子抱狗取快递时狗狗突咬男孩肩膀",
