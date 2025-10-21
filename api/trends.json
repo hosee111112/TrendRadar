@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T02:28:57.530816+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-10-22T03:17:51.989546+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时17分]"
         },
         {
           "title": "女子在直播间买到自己捐的衣服",
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时17分]"
         },
         {
           "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
@@ -40,8 +40,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时17分]"
         },
         {
           "title": "男友去世女子生下遗腹子想要赔偿款",
@@ -49,11 +49,12 @@
           "source": "微博",
           "ranks": [
             23,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时17分]"
         },
         {
           "title": "林晏孤独终老",
