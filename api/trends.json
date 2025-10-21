@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T06:20:19.395019+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2025-10-22T07:19:43.480550+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "离婚后再复婚，高市早苗丈夫改姓“高市”",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时19分]"
         },
         {
           "title": "女子在直播间买到自己捐的衣服",
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时19分]"
         },
         {
           "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
@@ -40,8 +40,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时19分]"
         },
         {
           "title": "男友去世女子生下遗腹子想要赔偿款",
@@ -53,8 +53,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时19分]"
         },
         {
           "title": "林晏孤独终老",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "女子穿7厘米高跟鞋征服高山岩壁",
+          "url": "https://www.toutiao.com/trending/7563208449422065702/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     }
