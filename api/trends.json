@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T02:32:25.081921+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2025-10-23T03:16:39.280369+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时16分]"
         },
         {
           "title": "30年老公厕爆改咖啡店 没营业就被查",
@@ -26,11 +27,12 @@
           "ranks": [
             24,
             18,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时16分]"
         },
         {
           "title": "女子私开消防栓当街洗衣",
@@ -42,8 +44,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时16分]"
         },
         {
           "title": "中国女子涉盗窃法国博物馆6公斤金块",
@@ -51,11 +53,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时16分]"
         },
         {
           "title": "女子做美甲咬牙硬扛被疼哭",
@@ -65,8 +68,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "女子捐200斤旧衣后收到14岁女孩来信",
