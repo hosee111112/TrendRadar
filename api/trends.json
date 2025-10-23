@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T21:33:04.709624+08:00",
-  "total_titles_processed": 2014,
+  "generated_at": "2025-10-23T22:23:06.825115+08:00",
+  "total_titles_processed": 2100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "中国女子涉盗窃法国博物馆6公斤金块",
@@ -172,6 +172,19 @@
           "time_info": "17时22分"
         },
         {
+          "title": "乌克兰一幼儿园遭袭瞬间画面曝光",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%81%AD%E8%A2%AD%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 22时23分]"
+        },
+        {
           "title": "中国女子被指盗走法博物馆6公斤黄金",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8C%87%E7%9B%97%E8%B5%B0%E6%B3%95%E5%8D%9A%E7%89%A9%E9%A6%866%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91",
           "source": "百度热搜",
@@ -197,16 +210,16 @@
           "time_info": "[09时27分 ~ 12时23分]"
         },
         {
-          "title": "乌克兰一幼儿园遭袭瞬间画面曝光",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%81%AD%E8%A2%AD%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
+          "title": "女子一来月经就咳血3天",
+          "url": "https://www.toutiao.com/trending/7564310647474389033/",
+          "source": "今日头条",
           "ranks": [
-            27,
-            14
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 21时33分]"
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 22时23分]"
         },
         {
           "title": "女子在迪拜看到浙江温州车",
@@ -245,15 +258,26 @@
           "time_info": "[12时23分 ~ 13时21分]"
         },
         {
-          "title": "女子一来月经就咳血3天",
-          "url": "https://www.toutiao.com/trending/7564310647474389033/",
+          "title": "女子给千万富豪当月嫂反被借走85万",
+          "url": "https://www.toutiao.com/trending/7564005360902766611/",
           "source": "今日头条",
           "ranks": [
-            22
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
+          "title": "妻子65页PPT举报空警丈夫",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%9065%E9%A1%B5PPT%E4%B8%BE%E6%8A%A5%E7%A9%BA%E8%AD%A6%E4%B8%88%E5%A4%AB",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "捐赠200斤旧衣女子发声",
