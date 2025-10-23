@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T11:06:15.870407+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2025-10-23T12:23:54.099081+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国女子涉盗窃法国博物馆6公斤金块",
@@ -17,11 +17,12 @@
             18,
             5,
             4,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时23分]"
         },
         {
           "title": "30年老公厕爆改咖啡店 没营业就被查",
@@ -130,11 +131,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 11时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 12时23分]"
         },
         {
           "title": "女子集市上免费洗金镯被洗掉5克",
@@ -142,11 +144,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 11时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 12时23分]"
         },
         {
           "title": "捐赠200斤旧衣女子发声",
@@ -158,6 +161,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 05时16分]"
+        },
+        {
+          "title": "中国建成规模最大且高质量教育体系",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%BB%BA%E6%88%90%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E4%B8%94%E9%AB%98%E8%B4%A8%E9%87%8F%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "教育局辟谣成都试点取消中考",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E5%B1%80%E8%BE%9F%E8%B0%A3%E6%88%90%E9%83%BD%E8%AF%95%E7%82%B9%E5%8F%96%E6%B6%88%E4%B8%AD%E8%80%83",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         }
       ]
     }
