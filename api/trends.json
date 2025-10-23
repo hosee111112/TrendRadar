@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T05:19:07.169147+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2025-10-24T06:18:58.912887+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7564005360902766611/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 06时18分]"
         },
         {
           "title": "医院开女性肛肠门诊开诊即满号",
@@ -26,8 +27,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 06时18分]"
         }
       ]
     }
