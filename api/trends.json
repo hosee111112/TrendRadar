@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T04:22:11.491184+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2025-10-24T05:19:07.169147+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 05时19分]"
         },
         {
           "title": "医院开女性肛肠门诊开诊即满号",
@@ -26,8 +26,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 05时19分]"
         }
       ]
     }
