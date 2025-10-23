@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T17:22:25.134060+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2025-10-23T18:22:18.365175+08:00",
+  "total_titles_processed": 1711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国女子涉盗窃法国博物馆6公斤金块",
@@ -145,7 +145,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -156,9 +156,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "韩国女子赴柬应聘被同胞卖掉：沦为低俗主播，打赏不达标就挨打",
+          "url": "https://news.ifeng.com/c/8ngQwyw5NCW",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 18时22分]"
         },
         {
           "title": "中国女子被指盗走法博物馆6公斤黄金",
@@ -184,17 +195,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时27分 ~ 12时23分]"
-        },
-        {
-          "title": "韩国女子赴柬应聘被同胞卖掉：沦为低俗主播，打赏不达标就挨打",
-          "url": "https://news.ifeng.com/c/8ngQwyw5NCW",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时22分]"
         },
         {
           "title": "女子在迪拜看到浙江温州车",
@@ -248,9 +248,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "女子遛狗时被男子殴打 警方介入调查",
+          "url": "https://www.toutiao.com/trending/7564279926800023590/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "如何看待演员邓莎老公被指曾行贿",
@@ -262,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "警方通报女子栓绳遛狗遭殴打",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E6%A0%93%E7%BB%B3%E9%81%9B%E7%8B%97%E9%81%AD%E6%AE%B4%E6%89%93%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D26%26stream_entry_id%3D31%26pos%3D26%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E8%25AD%25A6%25E6%2596%25B9%25E9%2580%259A%25E6%258A%25A5%25E5%25A5%25B3%25E5%25AD%2590%25E6%25A0%2593%25E7%25BB%25B3%25E9%2581%259B%25E7%258B%2597%25E9%2581%25AD%25E6%25AE%25B4%25E6%2589%2593%2523%26band_rank%3D26%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761214149%26pre_seqid%3D176121414945301201193135",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     }
