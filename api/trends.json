@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T02:28:01.135550+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2025-10-25T03:17:02.058296+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "“吃苦幼儿园”为何能走红",
@@ -26,11 +27,12 @@
           "ranks": [
             18,
             8,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "教育部发布10条措施，进一步加强中小学生心理健康工作",
@@ -38,11 +40,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "妻子65页PPT,举报丈夫偷飞机餐",
@@ -53,8 +56,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "教育部：严禁将手机带入课堂",
@@ -66,8 +69,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "女子在院里晒被子把家“拆了”",
@@ -78,8 +81,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时17分]"
+        },
+        {
+          "title": "UP主Helin和Eva结婚啦",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BBHelin%E5%92%8CEva%E7%BB%93%E5%A9%9A%E5%95%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时17分]"
         },
         {
           "title": "女子与男友争执中刀死亡男友二审无罪",
@@ -103,17 +118,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "UP主Helin和Eva结婚啦",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BBHelin%E5%92%8CEva%E7%BB%93%E5%A9%9A%E5%95%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
         }
       ]
     }
