@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T04:22:11.716323+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2025-10-25T05:18:57.276673+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "柯洁称儿童编程课都是智商税，你如何看待他的这一观点？",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "“吃苦幼儿园”为何能走红",
@@ -28,11 +28,12 @@
             18,
             8,
             6,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "教育部发布10条措施，进一步加强中小学生心理健康工作",
@@ -44,8 +45,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "妻子65页PPT,举报丈夫偷飞机餐",
@@ -56,8 +57,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "教育部：严禁将手机带入课堂",
@@ -67,11 +68,12 @@
             15,
             18,
             21,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "女子在院里晒被子把家“拆了”",
@@ -80,11 +82,12 @@
           "ranks": [
             16,
             20,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "UP主Helin和Eva结婚啦",
@@ -93,11 +96,12 @@
           "ranks": [
             30,
             27,
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时18分]"
         },
         {
           "title": "女子与男友争执中刀死亡男友二审无罪",
@@ -111,6 +115,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 04时22分]"
+        },
+        {
+          "title": "到底什么样的教育才是对孩子最好的教育？",
+          "url": "https://www.zhihu.com/question/631266630",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "山西明确：禁止诋毁侮辱大龄未婚女性",
