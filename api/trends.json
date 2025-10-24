@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T13:21:51.508281+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2025-10-24T14:30:44.986469+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "女子给千万富豪当月嫂反被借走85万",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时02分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时02分 ~ 14时30分]"
         },
         {
           "title": "教育部：不得以考试成绩对学生排名",
@@ -51,11 +51,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时02分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时02分 ~ 14时30分]"
         },
         {
           "title": "韩国女子赴柬应聘翻译被同胞卖掉",
@@ -67,11 +68,12 @@
             9,
             15,
             22,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 13时21分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 14时30分]"
         },
         {
           "title": "摩托车司机急刹后座女子被甩飞",
@@ -79,11 +81,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            4
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 14时30分]"
         },
         {
           "title": "教育部：鼓励每周一天“无作业日”",
@@ -91,11 +94,36 @@
           "source": "今日头条",
           "ranks": [
             5,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 14时30分]"
+        },
+        {
+          "title": "UP主Helin和Eva结婚啦",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BBHelin%E5%92%8CEva%E7%BB%93%E5%A9%9A%E5%95%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "教育部发布10条措施，进一步加强中小学生心理健康工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31829934",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 14时30分]"
         },
         {
           "title": "国务院国资委召开中央企业人才教育培养工作座谈会",
@@ -108,6 +136,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 13时21分]"
+        },
+        {
+          "title": "教育部发布加强中小学生心理健康工作 10 条举措，包括不得以考试成绩对学生进行排名等，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1964982652814713049",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 14时30分]"
         },
         {
           "title": "女子带宠物蛙就餐被店员误认是食材",
@@ -123,39 +164,16 @@
           "time_info": "[11时02分 ~ 12时24分]"
         },
         {
-          "title": "教育部发布10条措施，进一步加强中小学生心理健康工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31829934",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 13时21分]"
-        },
-        {
-          "title": "教育部发布加强中小学生心理健康工作 10 条举措，包括不得以考试成绩对学生进行排名等，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1964982652814713049",
-          "source": "知乎",
-          "ranks": [
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 13时21分]"
-        },
-        {
           "title": "女子银行被VIP插队现场要说法",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E5%AD%90%E9%93%B6%E8%A1%8C%E8%A2%ABVIP%E6%8F%92%E9%98%9F%E7%8E%B0%E5%9C%BA%E8%A6%81%E8%AF%B4%E6%B3%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D23%26c_type%3D31%26pos%3D23%26q%3D%2523%25E5%25A5%25B3%25E5%25AD%2590%25E9%2593%25B6%25E8%25A1%258C%25E8%25A2%25ABVIP%25E6%258F%2592%25E9%2598%259F%25E7%258E%25B0%25E5%259C%25BA%25E8%25A6%2581%25E8%25AF%25B4%25E6%25B3%2595%2523%26cate%3D5001%26flag%3D1%26realpos%3D23%26dgr%3D0%26display_time%3D1761279668%26pre_seqid%3D17612796680800368314765",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 14时30分]"
         },
         {
           "title": "女子带宠物蛙就餐被店员误认是食材",
@@ -176,7 +194,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -192,6 +210,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "女子监控发现陌生人用指纹进自家门",
+          "url": "https://www.toutiao.com/trending/7564428221341597742/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
           "title": "教育部：鼓励中小学生和家长共同开展“息屏行动”，减少对网络过度依赖",
           "url": "https://wallstreetcn.com/livenews/2992856",
           "source": "华尔街见闻-快讯",
@@ -203,6 +232,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "被妻子用PPT举报偷拿飞机物资堆放家中，南航涉事职工回应由公司处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31826838",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
           "title": "女子恋爱1个月怀孕被61岁男友拉黑",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E5%AD%90%E6%81%8B%E7%88%B11%E4%B8%AA%E6%9C%88%E6%80%80%E5%AD%95%E8%A2%AB61%E5%B2%81%E7%94%B7%E5%8F%8B%E6%8B%89%E9%BB%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25A5%25B3%25E5%25AD%2590%25E6%2581%258B%25E7%2588%25B11%25E4%25B8%25AA%25E6%259C%2588%25E6%2580%2580%25E5%25AD%2595%25E8%25A2%25AB61%25E5%25B2%2581%25E7%2594%25B7%25E5%258F%258B%25E6%258B%2589%25E9%25BB%2591%2523%26dgr%3D0%26realpos%3D22%26filter_type%3Drealtimehot%26pos%3D23%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D22%26display_time%3D1761277088%26pre_seqid%3D17612770881340324359158",
           "source": "微博",
@@ -212,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "女子10年前给儿子买三金转手赚20万",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E5%AD%9010%E5%B9%B4%E5%89%8D%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%B0%E4%B8%89%E9%87%91%E8%BD%AC%E6%89%8B%E8%B5%9A20%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D23%26stream_entry_id%3D31%26c_type%3D31%26lcate%3D5001%26band_rank%3D23%26realpos%3D23%26dgr%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25A5%25B3%25E5%25AD%259010%25E5%25B9%25B4%25E5%2589%258D%25E7%25BB%2599%25E5%2584%25BF%25E5%25AD%2590%25E4%25B9%25B0%25E4%25B8%2589%25E9%2587%2591%25E8%25BD%25AC%25E6%2589%258B%25E8%25B5%259A20%25E4%25B8%2587%2523%26flag%3D1%26display_time%3D1761287288%26pre_seqid%3D17612872885430318257105",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
         },
         {
           "title": "教育部：严禁布置机械重复惩罚性作业",
