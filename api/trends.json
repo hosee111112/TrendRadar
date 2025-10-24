@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T17:22:11.689304+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2025-10-24T18:23:00.640695+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "教育部：不得以考试成绩对学生排名",
@@ -18,8 +18,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时02分 ~ 17时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时02分 ~ 18时23分]"
         },
         {
           "title": "大义灭亲,妻子举报空警丈夫偷窃",
@@ -34,6 +34,34 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时02分 ~ 16时28分]"
+        },
+        {
+          "title": "UP主Helin和Eva结婚啦",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BBHelin%E5%92%8CEva%E7%BB%93%E5%A9%9A%E5%95%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时30分 ~ 18时23分]"
+        },
+        {
+          "title": "教育部发布10条措施，进一步加强中小学生心理健康工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31829934",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 18时23分]"
         },
         {
           "title": "女子给千万富豪当月嫂反被借走85万",
@@ -79,31 +107,16 @@
           "time_info": "[07时23分 ~ 15时21分]"
         },
         {
-          "title": "教育部发布10条措施，进一步加强中小学生心理健康工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31829934",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 17时22分]"
-        },
-        {
-          "title": "UP主Helin和Eva结婚啦",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BBHelin%E5%92%8CEva%E7%BB%93%E5%A9%9A%E5%95%A6",
-          "source": "bilibili 热搜",
+          "title": "教育部：严禁将手机带入课堂",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%A5%E7%A6%81%E5%B0%86%E6%89%8B%E6%9C%BA%E5%B8%A6%E5%85%A5%E8%AF%BE%E5%A0%82",
+          "source": "百度热搜",
           "ranks": [
             2,
-            5,
-            14
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时30分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 18时23分]"
         },
         {
           "title": "教育部：鼓励每周一天“无作业日”",
@@ -118,17 +131,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时40分 ~ 15时21分]"
-        },
-        {
-          "title": "教育部：严禁将手机带入课堂",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%A5%E7%A6%81%E5%B0%86%E6%89%8B%E6%9C%BA%E5%B8%A6%E5%85%A5%E8%AF%BE%E5%A0%82",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
         },
         {
           "title": "摩托车司机急刹后座女子被甩飞",
@@ -181,6 +183,29 @@
           "time_info": "[12时23分 ~ 14时30分]"
         },
         {
+          "title": "妻子65页PPT,举报丈夫偷飞机餐",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346147&amp;topic_name=%E5%A6%BB%E5%AD%9065%E9%A1%B5PPT%2C%E4%B8%BE%E6%8A%A5%E4%B8%88%E5%A4%AB%E5%81%B7%E9%A3%9E%E6%9C%BA%E9%A4%90",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 18时23分]"
+        },
+        {
+          "title": "上海51岁丁克立遗嘱 财产留给妻子",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B751%E5%B2%81%E4%B8%81%E5%85%8B%E7%AB%8B%E9%81%97%E5%98%B1+%E8%B4%A2%E4%BA%A7%E7%95%99%E7%BB%99%E5%A6%BB%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 18时23分]"
+        },
+        {
           "title": "女子带宠物蛙就餐被店员误认是食材",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%AE%A0%E7%89%A9%E8%9B%99%E5%B0%B1%E9%A4%90%E8%A2%AB%E5%BA%97%E5%91%98%E8%AF%AF%E8%AE%A4%E6%98%AF%E9%A3%9F%E6%9D%90",
           "source": "百度热搜",
@@ -218,15 +243,16 @@
           "time_info": "[14时30分 ~ 17时22分]"
         },
         {
-          "title": "妻子65页PPT,举报丈夫偷飞机餐",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346147&amp;topic_name=%E5%A6%BB%E5%AD%9065%E9%A1%B5PPT%2C%E4%B8%BE%E6%8A%A5%E4%B8%88%E5%A4%AB%E5%81%B7%E9%A3%9E%E6%9C%BA%E9%A4%90",
-          "source": "贴吧",
+          "title": "女子10年前给儿子买三金转手赚20万",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9010%E5%B9%B4%E5%89%8D%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%B0%E4%B8%89%E9%87%91%E8%BD%AC%E6%89%8B%E8%B5%9A20%E4%B8%87",
+          "source": "百度热搜",
           "ranks": [
-            9
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 18时23分]"
         },
         {
           "title": "被妻子用PPT举报偷拿飞机物资堆放家中，南航涉事职工回应由公司处理",
@@ -241,15 +267,15 @@
           "time_info": "[14时30分 ~ 15时21分]"
         },
         {
-          "title": "上海51岁丁克立遗嘱 财产留给妻子",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B751%E5%B2%81%E4%B8%81%E5%85%8B%E7%AB%8B%E9%81%97%E5%98%B1+%E8%B4%A2%E4%BA%A7%E7%95%99%E7%BB%99%E5%A6%BB%E5%AD%90",
+          "title": "女子靠“代购骗局”赚外快养男友3年",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%9D%A0%E2%80%9C%E4%BB%A3%E8%B4%AD%E9%AA%97%E5%B1%80%E2%80%9D%E8%B5%9A%E5%A4%96%E5%BF%AB%E5%85%BB%E7%94%B7%E5%8F%8B3%E5%B9%B4",
           "source": "百度热搜",
           "ranks": [
-            23
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
+          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "女子带宠物蛙就餐被店员误认是食材",
@@ -328,17 +354,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
-        },
-        {
-          "title": "女子10年前给儿子买三金转手赚20万",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9010%E5%B9%B4%E5%89%8D%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%B0%E4%B8%89%E9%87%91%E8%BD%AC%E6%89%8B%E8%B5%9A20%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         },
         {
           "title": "教育部：鼓励每周一天“无作业日”",
