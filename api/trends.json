@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T13:18:54.278774+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2025-10-25T14:27:14.439562+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "柯洁称儿童编程课都是智商税，你如何看待他的这一观点？",
@@ -17,11 +17,24 @@
             4,
             3,
             5,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 11时05分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 14时27分]"
+        },
+        {
+          "title": "河南漯河一「吃苦幼儿园」靠筛麦子、做烧鸡等劳动教学走红，它为啥能火？这种教学的价值在哪里？",
+          "url": "https://www.zhihu.com/question/1965166798556061718",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时04分 ~ 14时27分]"
         },
         {
           "title": "教育部发布10条措施，进一步加强中小学生心理健康工作",
@@ -82,8 +95,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 13时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 14时27分]"
         },
         {
           "title": "教育部：严禁将手机带入课堂",
@@ -117,28 +130,54 @@
           "time_info": "[01时19分 ~ 11时05分]"
         },
         {
-          "title": "河南漯河一「吃苦幼儿园」靠筛麦子、做烧鸡等劳动教学走红，它为啥能火？这种教学的价值在哪里？",
-          "url": "https://www.zhihu.com/question/1965166798556061718",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时04分 ~ 13时18分]"
-        },
-        {
           "title": "公司不批80天生育奖励假 女子获补偿",
           "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%89%B980%E5%A4%A9%E7%94%9F%E8%82%B2%E5%A5%96%E5%8A%B1%E5%81%87+%E5%A5%B3%E5%AD%90%E8%8E%B7%E8%A1%A5%E5%81%BF",
           "source": "百度热搜",
           "ranks": [
             17,
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时04分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时04分 ~ 14时27分]"
+        },
+        {
+          "title": "女子花几十块买猪食槽收纳孩子玩具",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1%E5%87%A0%E5%8D%81%E5%9D%97%E4%B9%B0%E7%8C%AA%E9%A3%9F%E6%A7%BD%E6%94%B6%E7%BA%B3%E5%AD%A9%E5%AD%90%E7%8E%A9%E5%85%B7",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            8,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时04分 ~ 14时27分]"
+        },
+        {
+          "title": "越南任命首位女性副总理",
+          "url": "https://flash.jin10.com/detail/20251025141224087800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "女子结婚10年后主动退好友千元礼金",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A10%E5%B9%B4%E5%90%8E%E4%B8%BB%E5%8A%A8%E9%80%80%E5%A5%BD%E5%8F%8B%E5%8D%83%E5%85%83%E7%A4%BC%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时27分]"
         },
         {
           "title": "女子与男友争执中刀死亡男友二审无罪",
@@ -167,19 +206,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时24分 ~ 13时18分]"
-        },
-        {
-          "title": "女子花几十块买猪食槽收纳孩子玩具",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B1%E5%87%A0%E5%8D%81%E5%9D%97%E4%B9%B0%E7%8C%AA%E9%A3%9F%E6%A7%BD%E6%94%B6%E7%BA%B3%E5%AD%A9%E5%AD%90%E7%8E%A9%E5%85%B7",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时04分 ~ 13时18分]"
         },
         {
           "title": "山西：禁止诋毁侮辱大龄未婚女性",
@@ -219,6 +245,17 @@
           "time_info": "[09时24分 ~ 11时05分]"
         },
         {
+          "title": "女子替儿取钱被要求证明我儿是我儿",
+          "url": "https://www.toutiao.com/trending/7564401832212791323/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 14时27分]"
+        },
+        {
           "title": "马龙妻子夏露晒练舞日常视频",
           "url": "https://www.toutiao.com/trending/7564678981829132342/",
           "source": "今日头条",
@@ -247,7 +284,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -272,17 +309,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "女子结婚10年后主动退好友千元礼金",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A10%E5%B9%B4%E5%90%8E%E4%B8%BB%E5%8A%A8%E9%80%80%E5%A5%BD%E5%8F%8B%E5%8D%83%E5%85%83%E7%A4%BC%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
         }
       ]
     }
