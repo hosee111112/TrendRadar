@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T20:37:08.004201+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2025-10-25T21:23:54.133506+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
@@ -103,8 +103,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时26分 ~ 20时37分]"
+          "appearance_count": 27,
+          "time_info": "[00时26分 ~ 21时23分]"
         },
         {
           "title": "教育部：严禁将手机带入课堂",
@@ -172,11 +172,27 @@
           "ranks": [
             8,
             15,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 20时37分]"
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 21时23分]"
+        },
+        {
+          "title": "女子谈恋爱2个月被骗181万",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B0%88%E6%81%8B%E7%88%B12%E4%B8%AA%E6%9C%88%E8%A2%AB%E9%AA%97181%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            26,
+            27,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 21时23分]"
         },
         {
           "title": "女子花几十块买猪食槽收纳孩子玩具",
@@ -191,20 +207,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时04分 ~ 14时27分]"
-        },
-        {
-          "title": "女子谈恋爱2个月被骗181万",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B0%88%E6%81%8B%E7%88%B12%E4%B8%AA%E6%9C%88%E8%A2%AB%E9%AA%97181%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            26,
-            27,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 20时37分]"
         },
         {
           "title": "越南任命首位女性副总理",
