@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T21:23:54.133506+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2025-10-25T22:17:24.409111+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
@@ -103,8 +103,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时26分 ~ 21时23分]"
+          "appearance_count": 28,
+          "time_info": "[00时26分 ~ 22时17分]"
         },
         {
           "title": "教育部：严禁将手机带入课堂",
@@ -138,6 +138,35 @@
           "time_info": "[01时19分 ~ 11时05分]"
         },
         {
+          "title": "女子参加荒野求生14天后瘦成闪电",
+          "url": "https://www.toutiao.com/trending/7564727091888455706/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            15,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时18分 ~ 22时17分]"
+        },
+        {
+          "title": "女子谈恋爱2个月被骗181万",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B0%88%E6%81%8B%E7%88%B12%E4%B8%AA%E6%9C%88%E8%A2%AB%E9%AA%97181%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            26,
+            27,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时18分 ~ 22时17分]"
+        },
+        {
           "title": "女子结婚10年后主动退好友千元礼金",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A10%E5%B9%B4%E5%90%8E%E4%B8%BB%E5%8A%A8%E9%80%80%E5%A5%BD%E5%8F%8B%E5%8D%83%E5%85%83%E7%A4%BC%E9%87%91",
           "source": "百度热搜",
@@ -164,35 +193,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时04分 ~ 14时27分]"
-        },
-        {
-          "title": "女子参加荒野求生14天后瘦成闪电",
-          "url": "https://www.toutiao.com/trending/7564727091888455706/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            15,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时18分 ~ 21时23分]"
-        },
-        {
-          "title": "女子谈恋爱2个月被骗181万",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%B0%88%E6%81%8B%E7%88%B12%E4%B8%AA%E6%9C%88%E8%A2%AB%E9%AA%97181%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            26,
-            27,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时18分 ~ 21时23分]"
         },
         {
           "title": "女子花几十块买猪食槽收纳孩子玩具",
