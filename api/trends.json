@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T12:24:27.078459+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2025-10-25T13:18:54.278774+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "公公 媳妇 老公 妻子 公婆 婆媳 育儿 教育 丈夫 子女 幼儿 儿童 婚姻 父母 爱情 结婚 单身 孤独 女子 女性",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "柯洁称儿童编程课都是智商税，你如何看待他的这一观点？",
@@ -67,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 13时18分]"
         },
         {
           "title": "妻子65页PPT,举报丈夫偷飞机餐",
@@ -78,11 +78,12 @@
             12,
             13,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 12时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 13时18分]"
         },
         {
           "title": "教育部：严禁将手机带入课堂",
@@ -124,8 +125,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 12时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 13时18分]"
+        },
+        {
+          "title": "公司不批80天生育奖励假 女子获补偿",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%89%B980%E5%A4%A9%E7%94%9F%E8%82%B2%E5%A5%96%E5%8A%B1%E5%81%87+%E5%A5%B3%E5%AD%90%E8%8E%B7%E8%A1%A5%E5%81%BF",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 13时18分]"
         },
         {
           "title": "女子与男友争执中刀死亡男友二审无罪",
@@ -148,11 +161,12 @@
           "ranks": [
             22,
             21,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 13时18分]"
         },
         {
           "title": "女子花几十块买猪食槽收纳孩子玩具",
@@ -160,11 +174,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 12时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 13时18分]"
         },
         {
           "title": "山西：禁止诋毁侮辱大龄未婚女性",
@@ -204,17 +219,6 @@
           "time_info": "[09时24分 ~ 11时05分]"
         },
         {
-          "title": "公司不批80天生育奖励假 女子获补偿",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%89%B980%E5%A4%A9%E7%94%9F%E8%82%B2%E5%A5%96%E5%8A%B1%E5%81%87+%E5%A5%B3%E5%AD%90%E8%8E%B7%E8%A1%A5%E5%81%BF",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 12时24分]"
-        },
-        {
           "title": "马龙妻子夏露晒练舞日常视频",
           "url": "https://www.toutiao.com/trending/7564678981829132342/",
           "source": "今日头条",
@@ -237,13 +241,24 @@
           "time_info": "09时24分"
         },
         {
+          "title": "《余生有涯》中叶思北说「母亲对自己的爱里有嫉妒」，父母如果自己过得不太好，真的会嫉妒子女吗？",
+          "url": "https://www.zhihu.com/question/1964012469832914508",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
           "title": "AI时代的国际教育选择",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%9B%BD%E9%99%85%E6%95%99%E8%82%B2%E9%80%89%E6%8B%A9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D21%26q%3D%2523AI%25E6%2597%25B6%25E4%25BB%25A3%25E7%259A%2584%25E5%259B%25BD%25E9%2599%2585%25E6%2595%2599%25E8%2582%25B2%25E9%2580%2589%25E6%258B%25A9%2523%26flag%3D1%26band_rank%3D20%26realpos%3D20%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26lcate%3D5001%26dgr%3D0%26display_time%3D1761365392%26pre_seqid%3D17613653928330323782114",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         },
@@ -257,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "女子结婚10年后主动退好友千元礼金",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A10%E5%B9%B4%E5%90%8E%E4%B8%BB%E5%8A%A8%E9%80%80%E5%A5%BD%E5%8F%8B%E5%8D%83%E5%85%83%E7%A4%BC%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         }
       ]
     }
