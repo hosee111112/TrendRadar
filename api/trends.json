@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T05:18:16.764070+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2025-10-26T06:19:33.926502+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 06时19分]"
         },
         {
           "title": "女子参加荒野求生14天后瘦成闪电",
@@ -26,11 +26,12 @@
             22,
             8,
             26,
-            23
+            23,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时26分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[02时26分 ~ 06时19分]"
         },
         {
           "title": "你们犯错了，父母会怎么罚呢?",
@@ -38,11 +39,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 06时19分]"
         },
         {
           "title": "媒体评珍珠奶茶夺走三岁儿童性命",
